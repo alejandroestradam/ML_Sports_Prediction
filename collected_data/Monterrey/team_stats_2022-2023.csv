@@ -1,0 +1,82 @@
+team_id,team_name,season_id,season_name,statistic_type,statistic_code,statistic_group,location,metric,value
+2662,Monterrey,19684,2022/2023,Attacks,attacks,offensive,overall,count,3455.0
+2662,Monterrey,19684,2022/2023,Attacks,attacks,offensive,overall,average,82.26
+2662,Monterrey,19684,2022/2023,Cleansheets,cleansheets,,all,count,19.0
+2662,Monterrey,19684,2022/2023,Cleansheets,cleansheets,,all,percentage,45.24
+2662,Monterrey,19684,2022/2023,Cleansheets,cleansheets,,home,count,10.0
+2662,Monterrey,19684,2022/2023,Cleansheets,cleansheets,,home,percentage,52.63
+2662,Monterrey,19684,2022/2023,Cleansheets,cleansheets,,away,count,9.0
+2662,Monterrey,19684,2022/2023,Cleansheets,cleansheets,,away,percentage,47.37
+2662,Monterrey,19684,2022/2023,Team Draws,team-draws,,all,count,9.0
+2662,Monterrey,19684,2022/2023,Team Draws,team-draws,,all,percentage,21.43
+2662,Monterrey,19684,2022/2023,Team Draws,team-draws,,home,count,3.0
+2662,Monterrey,19684,2022/2023,Team Draws,team-draws,,home,percentage,33.33
+2662,Monterrey,19684,2022/2023,Team Draws,team-draws,,away,count,6.0
+2662,Monterrey,19684,2022/2023,Team Draws,team-draws,,away,percentage,66.67
+2662,Monterrey,19684,2022/2023,Dangerous Attacks,dangerous-attacks,offensive,overall,count,1606.0
+2662,Monterrey,19684,2022/2023,Dangerous Attacks,dangerous-attacks,offensive,overall,average,38.24
+2662,Monterrey,19684,2022/2023,Ball Possession %,ball-possession,overall,overall,count,1998.0
+2662,Monterrey,19684,2022/2023,Ball Possession %,ball-possession,overall,overall,average,47.57
+2662,Monterrey,19684,2022/2023,Fouls,fouls,defensive,overall,count,503.0
+2662,Monterrey,19684,2022/2023,Fouls,fouls,defensive,overall,average,11.98
+2662,Monterrey,19684,2022/2023,Corners,corners,offensive,overall,count,198.0
+2662,Monterrey,19684,2022/2023,Corners,corners,offensive,overall,average,4.71
+2662,Monterrey,19684,2022/2023,Tackles,tackles,defensive,overall,count,654.0
+2662,Monterrey,19684,2022/2023,Tackles,tackles,defensive,overall,average,15.57
+2662,Monterrey,19684,2022/2023,Team Lost,team-lost,,all,count,8.0
+2662,Monterrey,19684,2022/2023,Team Lost,team-lost,,all,percentage,19.05
+2662,Monterrey,19684,2022/2023,Team Lost,team-lost,,home,count,4.0
+2662,Monterrey,19684,2022/2023,Team Lost,team-lost,,home,percentage,50.0
+2662,Monterrey,19684,2022/2023,Team Lost,team-lost,,away,count,4.0
+2662,Monterrey,19684,2022/2023,Team Lost,team-lost,,away,percentage,50.0
+2662,Monterrey,19684,2022/2023,Offsides,offsides,offensive,overall,count,76.0
+2662,Monterrey,19684,2022/2023,Offsides,offsides,offensive,overall,average,1.81
+2662,Monterrey,19684,2022/2023,Redcards,redcards,overall,overall,count,2.0
+2662,Monterrey,19684,2022/2023,Redcards,redcards,overall,overall,average,0.05
+2662,Monterrey,19684,2022/2023,Goals,goals,offensive,all,count,72.0
+2662,Monterrey,19684,2022/2023,Goals,goals,offensive,all,average,1.71
+2662,Monterrey,19684,2022/2023,Goals,goals,offensive,all,first,36.0
+2662,Monterrey,19684,2022/2023,Goals,goals,offensive,home,count,40.0
+2662,Monterrey,19684,2022/2023,Goals,goals,offensive,home,percentage,55.56
+2662,Monterrey,19684,2022/2023,Goals,goals,offensive,home,average,1.9
+2662,Monterrey,19684,2022/2023,Goals,goals,offensive,home,first,21.0
+2662,Monterrey,19684,2022/2023,Goals,goals,offensive,away,count,32.0
+2662,Monterrey,19684,2022/2023,Goals,goals,offensive,away,percentage,44.44
+2662,Monterrey,19684,2022/2023,Goals,goals,offensive,away,average,1.52
+2662,Monterrey,19684,2022/2023,Goals,goals,offensive,away,first,49.0
+2662,Monterrey,19684,2022/2023,Goals Conceded,goals-conceded,defensive,all,count,35.0
+2662,Monterrey,19684,2022/2023,Goals Conceded,goals-conceded,defensive,all,average,0.83
+2662,Monterrey,19684,2022/2023,Goals Conceded,goals-conceded,defensive,all,first,42.0
+2662,Monterrey,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,count,14.0
+2662,Monterrey,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,percentage,40.0
+2662,Monterrey,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,average,0.67
+2662,Monterrey,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,first,52.0
+2662,Monterrey,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,count,21.0
+2662,Monterrey,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,percentage,60.0
+2662,Monterrey,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,average,1.0
+2662,Monterrey,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,first,33.0
+2662,Monterrey,19684,2022/2023,Team Wins,team-wins,,all,count,25.0
+2662,Monterrey,19684,2022/2023,Team Wins,team-wins,,all,percentage,59.52
+2662,Monterrey,19684,2022/2023,Team Wins,team-wins,,home,count,14.0
+2662,Monterrey,19684,2022/2023,Team Wins,team-wins,,home,percentage,56.0
+2662,Monterrey,19684,2022/2023,Team Wins,team-wins,,away,count,11.0
+2662,Monterrey,19684,2022/2023,Team Wins,team-wins,,away,percentage,44.0
+2662,Monterrey,19684,2022/2023,Failed To Score,failed-toscore,offensive,all,count,9.0
+2662,Monterrey,19684,2022/2023,Failed To Score,failed-toscore,offensive,all,percentage,21.43
+2662,Monterrey,19684,2022/2023,Failed To Score,failed-toscore,offensive,home,count,6.0
+2662,Monterrey,19684,2022/2023,Failed To Score,failed-toscore,offensive,home,percentage,66.67
+2662,Monterrey,19684,2022/2023,Failed To Score,failed-toscore,offensive,home,overall_percentage,14.29
+2662,Monterrey,19684,2022/2023,Failed To Score,failed-toscore,offensive,away,count,3.0
+2662,Monterrey,19684,2022/2023,Failed To Score,failed-toscore,offensive,away,percentage,33.33
+2662,Monterrey,19684,2022/2023,Failed To Score,failed-toscore,offensive,away,overall_percentage,7.14
+2662,Monterrey,19684,2022/2023,Yellowred Cards,yellowred-cards,overall,overall,count,1.0
+2662,Monterrey,19684,2022/2023,Yellowred Cards,yellowred-cards,overall,overall,average,0.02
+2662,Monterrey,19684,2022/2023,Both Teams To Score,btts,,all,count,19.0
+2662,Monterrey,19684,2022/2023,Both Teams To Score,btts,,all,percentage,45.24
+2662,Monterrey,19684,2022/2023,Both Teams To Score,btts,,home,count,8.0
+2662,Monterrey,19684,2022/2023,Both Teams To Score,btts,,home,percentage,42.11
+2662,Monterrey,19684,2022/2023,Both Teams To Score,btts,,away,count,11.0
+2662,Monterrey,19684,2022/2023,Both Teams To Score,btts,,away,percentage,57.89
+2662,Monterrey,19684,2022/2023,Yellowcards,yellowcards,overall,overall,count,100.0
+2662,Monterrey,19684,2022/2023,Yellowcards,yellowcards,overall,overall,average,2.38
+2662,Monterrey,19684,2022/2023,Shots,shots,offensive,overall,average,15.19

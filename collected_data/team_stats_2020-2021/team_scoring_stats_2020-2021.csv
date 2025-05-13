@@ -1,0 +1,73 @@
+﻿team_id,team_name,season_name,statistic_name,statistic_code,metric,value,location,time_period
+3951,Necaxa,2020-2021,Offsides,offsides,offsides_count,41.0,,
+3951,Necaxa,2020-2021,Offsides,offsides,offsides_average,1.17,,
+3951,Necaxa,2020-2021,Dangerous Attacks,dangerous-attacks,dangerous-attacks_count,1321.0,,
+3951,Necaxa,2020-2021,Dangerous Attacks,dangerous-attacks,dangerous-attacks_average,37.74,,
+3951,Necaxa,2020-2021,Goals Conceded,goals-conceded,count,50.0,all,
+3951,Necaxa,2020-2021,Goals Conceded,goals-conceded,average,1.43,all,
+3951,Necaxa,2020-2021,Goals Conceded,goals-conceded,first,40.0,all,
+3951,Necaxa,2020-2021,Goals Conceded,goals-conceded,count,23.0,home,
+3951,Necaxa,2020-2021,Goals Conceded,goals-conceded,percentage,46.0,home,
+3951,Necaxa,2020-2021,Goals Conceded,goals-conceded,average,1.35,home,
+3951,Necaxa,2020-2021,Goals Conceded,goals-conceded,first,31.0,home,
+3951,Necaxa,2020-2021,Goals Conceded,goals-conceded,count,27.0,away,
+3951,Necaxa,2020-2021,Goals Conceded,goals-conceded,percentage,54.0,away,
+3951,Necaxa,2020-2021,Goals Conceded,goals-conceded,average,1.5,away,
+3951,Necaxa,2020-2021,Goals Conceded,goals-conceded,first,47.0,away,
+3951,Necaxa,2020-2021,Attacks,attacks,attacks_count,3070.0,,
+3951,Necaxa,2020-2021,Attacks,attacks,attacks_average,87.71,,
+3951,Necaxa,2020-2021,Goals,goals,count,30.0,all,
+3951,Necaxa,2020-2021,Goals,goals,average,0.86,all,
+3951,Necaxa,2020-2021,Goals,goals,first,49.0,all,
+3951,Necaxa,2020-2021,Goals,goals,count,16.0,home,
+3951,Necaxa,2020-2021,Goals,goals,percentage,53.33,home,
+3951,Necaxa,2020-2021,Goals,goals,average,0.94,home,
+3951,Necaxa,2020-2021,Goals,goals,first,47.0,home,
+3951,Necaxa,2020-2021,Goals,goals,count,14.0,away,
+3951,Necaxa,2020-2021,Goals,goals,percentage,46.67,away,
+3951,Necaxa,2020-2021,Goals,goals,average,0.78,away,
+3951,Necaxa,2020-2021,Goals,goals,first,52.0,away,
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,count,3.0,,0-15
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,6.0,,0-15
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,count,8.0,,15-30
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,16.0,,15-30
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,count,12.0,,30-45
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,24.0,,30-45
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,count,9.0,,45-60
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,18.0,,45-60
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,count,7.0,,60-75
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,14.0,,60-75
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,count,11.0,,75-90
+3951,Necaxa,2020-2021,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,22.0,,75-90
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,count,3.0,,0-15
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,percentage,10.0,,0-15
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,count,2.0,,15-30
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,percentage,6.67,,15-30
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,count,7.0,,30-45
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,percentage,23.33,,30-45
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,count,4.0,,45-60
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,percentage,13.33,,45-60
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,count,5.0,,60-75
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,percentage,16.67,,60-75
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,count,9.0,,75-90
+3951,Necaxa,2020-2021,Scoring Minutes,scoring-minutes,percentage,30.0,,75-90
+3951,Necaxa,2020-2021,Shots,shots,shots_total,404.0,,
+3951,Necaxa,2020-2021,Shots,shots,shots_on_target,142.0,,
+3951,Necaxa,2020-2021,Shots,shots,shots_off_target,198.0,,
+3951,Necaxa,2020-2021,Shots,shots,shots_inside_box,239.0,,
+3951,Necaxa,2020-2021,Shots,shots,shots_outside_box,165.0,,
+3951,Necaxa,2020-2021,Shots,shots,shots_blocked,12.0,,
+3951,Necaxa,2020-2021,Shots,shots,shots_average,11.54,,
+3951,Necaxa,2020-2021,Failed To Score,failed-toscore,count,12.0,all,
+3951,Necaxa,2020-2021,Failed To Score,failed-toscore,percentage,34.29,all,
+3951,Necaxa,2020-2021,Failed To Score,failed-toscore,count,6.0,home,
+3951,Necaxa,2020-2021,Failed To Score,failed-toscore,percentage,50.0,home,
+3951,Necaxa,2020-2021,Failed To Score,failed-toscore,overall_percentage,17.14,home,
+3951,Necaxa,2020-2021,Failed To Score,failed-toscore,count,6.0,away,
+3951,Necaxa,2020-2021,Failed To Score,failed-toscore,percentage,50.0,away,
+3951,Necaxa,2020-2021,Failed To Score,failed-toscore,overall_percentage,17.14,away,
+3951,Necaxa,2020-2021,Corners,corners,corners_count,142.0,,
+3951,Necaxa,2020-2021,Corners,corners,corners_average,4.06,,
+3951,Necaxa,2020-2021,Penalties,penalties,penalties_scored,3.0,,
+3951,Necaxa,2020-2021,Penalties,penalties,penalties_missed,1.0,,
+3951,Necaxa,2020-2021,Penalties,penalties,penalties_conversion_rate,75.0,,

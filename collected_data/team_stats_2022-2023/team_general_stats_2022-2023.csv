@@ -1,0 +1,51 @@
+﻿team_id,team_name,season_name,statistic_name,statistic_code,metric,value
+3951,Necaxa,2022-2023,Yellowred Cards,yellowred-cards,yellowred-cards_count,2
+3951,Necaxa,2022-2023,Yellowred Cards,yellowred-cards,yellowred-cards_average,0.06
+3951,Necaxa,2022-2023,Yellowred Cards,yellowred-cards,yellowred-cards_player_id,186366
+3951,Necaxa,2022-2023,Yellowred Cards,yellowred-cards,yellowred-cards_player_name,Edgar Mendez
+3951,Necaxa,2022-2023,Yellowred Cards,yellowred-cards,yellowred-cards_coach,0
+3951,Necaxa,2022-2023,Yellowred Cards,yellowred-cards,yellowred-cards_coach_average,0
+3951,Necaxa,2022-2023,Ball Possession %,ball-possession,ball-possession_count,1554
+3951,Necaxa,2022-2023,Ball Possession %,ball-possession,ball-possession_average,44.4
+3951,Necaxa,2022-2023,Yellowcards,yellowcards,yellowcards_count,97
+3951,Necaxa,2022-2023,Yellowcards,yellowcards,yellowcards_average,2.77
+3951,Necaxa,2022-2023,Yellowcards,yellowcards,yellowcards_player_id,255010
+3951,Necaxa,2022-2023,Yellowcards,yellowcards,yellowcards_player_name,J. Esquivel
+3951,Necaxa,2022-2023,Yellowcards,yellowcards,yellowcards_coach,1
+3951,Necaxa,2022-2023,Yellowcards,yellowcards,yellowcards_coach_average,0.03
+3951,Necaxa,2022-2023,Cleansheets,cleansheets,cleansheets_all_count,6
+3951,Necaxa,2022-2023,Cleansheets,cleansheets,cleansheets_all_percentage,17.14
+3951,Necaxa,2022-2023,Cleansheets,cleansheets,cleansheets_home_count,4
+3951,Necaxa,2022-2023,Cleansheets,cleansheets,cleansheets_home_percentage,66.67
+3951,Necaxa,2022-2023,Cleansheets,cleansheets,cleansheets_away_count,2
+3951,Necaxa,2022-2023,Cleansheets,cleansheets,cleansheets_away_percentage,33.33
+3951,Necaxa,2022-2023,Team Draws,team-draws,team-draws_all_count,9
+3951,Necaxa,2022-2023,Team Draws,team-draws,team-draws_all_percentage,25.71
+3951,Necaxa,2022-2023,Team Draws,team-draws,team-draws_home_count,5
+3951,Necaxa,2022-2023,Team Draws,team-draws,team-draws_home_percentage,55.56
+3951,Necaxa,2022-2023,Team Draws,team-draws,team-draws_away_count,4
+3951,Necaxa,2022-2023,Team Draws,team-draws,team-draws_away_percentage,44.44
+3951,Necaxa,2022-2023,Redcards,redcards,redcards_count,1
+3951,Necaxa,2022-2023,Redcards,redcards,redcards_average,0.03
+3951,Necaxa,2022-2023,Redcards,redcards,redcards_player_id,37600542
+3951,Necaxa,2022-2023,Redcards,redcards,redcards_player_name,Heriberto Jurado
+3951,Necaxa,2022-2023,Redcards,redcards,redcards_coach,0
+3951,Necaxa,2022-2023,Redcards,redcards,redcards_coach_average,0
+3951,Necaxa,2022-2023,Team Wins,team-wins,team-wins_all_count,8
+3951,Necaxa,2022-2023,Team Wins,team-wins,team-wins_all_percentage,22.86
+3951,Necaxa,2022-2023,Team Wins,team-wins,team-wins_home_count,5
+3951,Necaxa,2022-2023,Team Wins,team-wins,team-wins_home_percentage,62.5
+3951,Necaxa,2022-2023,Team Wins,team-wins,team-wins_away_count,3
+3951,Necaxa,2022-2023,Team Wins,team-wins,team-wins_away_percentage,37.5
+3951,Necaxa,2022-2023,Team Lost,team-lost,team-lost_all_count,18
+3951,Necaxa,2022-2023,Team Lost,team-lost,team-lost_all_percentage,51.43
+3951,Necaxa,2022-2023,Team Lost,team-lost,team-lost_home_count,7
+3951,Necaxa,2022-2023,Team Lost,team-lost,team-lost_home_percentage,38.89
+3951,Necaxa,2022-2023,Team Lost,team-lost,team-lost_away_count,11
+3951,Necaxa,2022-2023,Team Lost,team-lost,team-lost_away_percentage,61.11
+3951,Necaxa,2022-2023,Both Teams To Score,btts,btts_all_count,21
+3951,Necaxa,2022-2023,Both Teams To Score,btts,btts_all_percentage,60
+3951,Necaxa,2022-2023,Both Teams To Score,btts,btts_home_count,11
+3951,Necaxa,2022-2023,Both Teams To Score,btts,btts_home_percentage,52.38
+3951,Necaxa,2022-2023,Both Teams To Score,btts,btts_away_count,10
+3951,Necaxa,2022-2023,Both Teams To Score,btts,btts_away_percentage,47.62

@@ -1,0 +1,52 @@
+﻿team_id,team_name,season_name,statistic_name,statistic_code,metric,value
+3951,Necaxa,2023-2024,Ball Possession %,ball-possession,ball-possession_count,1377
+3951,Necaxa,2023-2024,Ball Possession %,ball-possession,ball-possession_average,38.25
+3951,Necaxa,2023-2024,Yellowcards,yellowcards,yellowcards_count,96
+3951,Necaxa,2023-2024,Yellowcards,yellowcards,yellowcards_average,2.67
+3951,Necaxa,2023-2024,Yellowcards,yellowcards,yellowcards_player_id,253900
+3951,Necaxa,2023-2024,Yellowcards,yellowcards,yellowcards_player_name,Fernando Arce
+3951,Necaxa,2023-2024,Yellowcards,yellowcards,yellowcards_coach,2
+3951,Necaxa,2023-2024,Yellowcards,yellowcards,yellowcards_coach_average,0.06
+3951,Necaxa,2023-2024,Team Draws,team-draws,team-draws_all_count,12
+3951,Necaxa,2023-2024,Team Draws,team-draws,team-draws_all_percentage,33.33
+3951,Necaxa,2023-2024,Team Draws,team-draws,team-draws_home_count,5
+3951,Necaxa,2023-2024,Team Draws,team-draws,team-draws_home_percentage,41.67
+3951,Necaxa,2023-2024,Team Draws,team-draws,team-draws_away_count,7
+3951,Necaxa,2023-2024,Team Draws,team-draws,team-draws_away_percentage,58.33
+3951,Necaxa,2023-2024,Yellowred Cards,yellowred-cards,yellowred-cards_count,2
+3951,Necaxa,2023-2024,Yellowred Cards,yellowred-cards,yellowred-cards_average,0.06
+3951,Necaxa,2023-2024,Yellowred Cards,yellowred-cards,yellowred-cards_player_id,253900
+3951,Necaxa,2023-2024,Yellowred Cards,yellowred-cards,yellowred-cards_player_name,Fernando Arce
+3951,Necaxa,2023-2024,Yellowred Cards,yellowred-cards,yellowred-cards_coach,0
+3951,Necaxa,2023-2024,Yellowred Cards,yellowred-cards,yellowred-cards_coach_average,0
+3951,Necaxa,2023-2024,Cleansheets,cleansheets,cleansheets_all_count,7
+3951,Necaxa,2023-2024,Cleansheets,cleansheets,cleansheets_all_percentage,19.44
+3951,Necaxa,2023-2024,Cleansheets,cleansheets,cleansheets_home_count,5
+3951,Necaxa,2023-2024,Cleansheets,cleansheets,cleansheets_home_percentage,71.43
+3951,Necaxa,2023-2024,Cleansheets,cleansheets,cleansheets_away_count,2
+3951,Necaxa,2023-2024,Cleansheets,cleansheets,cleansheets_away_percentage,28.57
+3951,Necaxa,2023-2024,Team Wins,team-wins,team-wins_all_count,11
+3951,Necaxa,2023-2024,Team Wins,team-wins,team-wins_all_percentage,30.56
+3951,Necaxa,2023-2024,Team Wins,team-wins,team-wins_home_count,7
+3951,Necaxa,2023-2024,Team Wins,team-wins,team-wins_home_percentage,63.64
+3951,Necaxa,2023-2024,Team Wins,team-wins,team-wins_away_count,4
+3951,Necaxa,2023-2024,Team Wins,team-wins,team-wins_away_percentage,36.36
+3951,Necaxa,2023-2024,Both Teams To Score,btts,btts_all_count,24
+3951,Necaxa,2023-2024,Both Teams To Score,btts,btts_all_percentage,66.67
+3951,Necaxa,2023-2024,Both Teams To Score,btts,btts_home_count,11
+3951,Necaxa,2023-2024,Both Teams To Score,btts,btts_home_percentage,45.83
+3951,Necaxa,2023-2024,Both Teams To Score,btts,btts_away_count,13
+3951,Necaxa,2023-2024,Both Teams To Score,btts,btts_away_percentage,54.17
+3951,Necaxa,2023-2024,Redcards,redcards,redcards_count,4
+3951,Necaxa,2023-2024,Redcards,redcards,redcards_average,0.11
+3951,Necaxa,2023-2024,Redcards,redcards,redcards_player_id,161345
+3951,Necaxa,2023-2024,Redcards,redcards,redcards_player_name,Raul Gudino
+3951,Necaxa,2023-2024,Redcards,redcards,redcards_coach,4
+3951,Necaxa,2023-2024,Redcards,redcards,redcards_coach_average,0.11
+3951,Necaxa,2023-2024,Team Lost,team-lost,team-lost_all_count,13
+3951,Necaxa,2023-2024,Team Lost,team-lost,team-lost_all_percentage,36.11
+3951,Necaxa,2023-2024,Team Lost,team-lost,team-lost_home_count,6
+3951,Necaxa,2023-2024,Team Lost,team-lost,team-lost_home_percentage,46.15
+3951,Necaxa,2023-2024,Team Lost,team-lost,team-lost_away_count,7
+3951,Necaxa,2023-2024,Team Lost,team-lost,team-lost_away_percentage,53.85
+3951,Necaxa,2023-2024,Average Points Per Game,average-points-per-game,average-points-per-game_average_points_per_game,1.56

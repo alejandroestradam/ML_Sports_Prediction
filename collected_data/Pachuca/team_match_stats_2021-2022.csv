@@ -1,0 +1,61 @@
+match_id,season_name,match_date,team_id,team_name,is_home,statistic_type,statistic_location,value
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Lost_count,all,11.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Lost_percentage,all,27.5
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Team Lost_count,home,2.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Team Lost_percentage,home,18.18
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Lost_count,away,9.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Lost_percentage,away,81.82
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Wins_count,all,19.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Wins_percentage,all,47.5
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Team Wins_count,home,11.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Team Wins_percentage,home,57.89
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Wins_count,away,8.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Wins_percentage,away,42.11
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals_count,all,60.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals_average,all,1.5
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals_first,all,36.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Goals_count,home,32.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Goals_percentage,home,53.33
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Goals_average,home,1.6
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Goals_first,home,36.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals_count,away,28.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals_percentage,away,46.67
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals_average,away,1.4
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals_first,away,36.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals Conceded_count,all,44.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals Conceded_average,all,1.1
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals Conceded_first,all,43.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Goals Conceded_count,home,15.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Goals Conceded_percentage,home,34.09
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Goals Conceded_average,home,0.75
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Goals Conceded_first,home,41.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals Conceded_count,away,29.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals Conceded_percentage,away,65.91
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals Conceded_average,away,1.45
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Goals Conceded_first,away,44.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Cleansheets_count,all,12.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Cleansheets_percentage,all,30.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Cleansheets_count,home,8.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Cleansheets_percentage,home,66.67
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Cleansheets_count,away,4.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Cleansheets_percentage,away,33.33
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Draws_count,all,10.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Draws_percentage,all,25.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Team Draws_count,home,7.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Team Draws_percentage,home,70.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Draws_count,away,3.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Team Draws_percentage,away,30.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Failed To Score_count,all,7.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Failed To Score_percentage,all,17.5
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Failed To Score_count,home,3.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Failed To Score_percentage,home,42.86
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Failed To Score_overall_percentage,home,7.5
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Failed To Score_count,away,4.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Failed To Score_percentage,away,57.14
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Failed To Score_overall_percentage,away,10.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Both Teams To Score_count,all,23.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Both Teams To Score_percentage,all,57.5
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Both Teams To Score_count,home,11.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,True,Both Teams To Score_percentage,home,47.83
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Both Teams To Score_count,away,12.0
+team_stat_10036_18469,2021-2022,2025-04-24T23:16:01.424529,10036,Pachuca,False,Both Teams To Score_percentage,away,52.17

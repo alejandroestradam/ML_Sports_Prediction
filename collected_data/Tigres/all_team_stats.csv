@@ -1,0 +1,235 @@
+match_id,season_name,match_date,team_id,team_name,is_home,statistic_type,statistic_location,value
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Lost_count,all,9.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Lost_percentage,all,21.43
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Team Lost_count,home,2.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Team Lost_percentage,home,22.22
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Lost_count,away,7.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Lost_percentage,away,77.78
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Draws_count,all,14.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Draws_percentage,all,33.33
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Team Draws_count,home,8.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Team Draws_percentage,home,57.14
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Draws_count,away,6.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Draws_percentage,away,42.86
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Cleansheets_count,all,11.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Cleansheets_percentage,all,26.19
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Cleansheets_count,home,7.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Cleansheets_percentage,home,63.64
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Cleansheets_count,away,4.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Cleansheets_percentage,away,36.36
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Wins_count,all,19.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Wins_percentage,all,45.24
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Team Wins_count,home,11.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Team Wins_percentage,home,57.89
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Wins_count,away,8.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Team Wins_percentage,away,42.11
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Failed To Score_count,all,7.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Failed To Score_percentage,all,16.67
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Failed To Score_count,home,2.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Failed To Score_percentage,home,28.57
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Failed To Score_overall_percentage,home,4.76
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Failed To Score_count,away,5.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Failed To Score_percentage,away,71.43
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Failed To Score_overall_percentage,away,11.9
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals Conceded_count,all,51.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals Conceded_average,all,1.21
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals Conceded_first,all,45.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Goals Conceded_count,home,22.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Goals Conceded_percentage,home,43.14
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Goals Conceded_average,home,1.05
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Goals Conceded_first,home,49.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals Conceded_count,away,29.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals Conceded_percentage,away,56.86
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals Conceded_average,away,1.38
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals Conceded_first,away,42.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Both Teams To Score_count,all,25.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Both Teams To Score_percentage,all,59.52
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Both Teams To Score_count,home,13.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Both Teams To Score_percentage,home,52.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Both Teams To Score_count,away,12.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Both Teams To Score_percentage,away,48.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals_count,all,76.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals_average,all,1.81
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals_first,all,40.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Goals_count,home,44.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Goals_percentage,home,57.89
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Goals_average,home,2.1
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,True,Goals_first,home,40.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals_count,away,32.0
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals_percentage,away,42.11
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals_average,away,1.52
+team_stat_609_21623,2023-2024,2025-04-24T23:16:05.014884,609,Tigres UANL,False,Goals_first,away,40.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Wins_count,all,22.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Wins_percentage,all,50.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Team Wins_count,home,12.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Team Wins_percentage,home,54.55
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Wins_count,away,10.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Wins_percentage,away,45.45
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals Conceded_count,all,40.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals Conceded_average,all,0.91
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals Conceded_first,all,25.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Goals Conceded_count,home,18.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Goals Conceded_percentage,home,45.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Goals Conceded_average,home,0.78
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Goals Conceded_first,home,26.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals Conceded_count,away,22.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals Conceded_percentage,away,55.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals Conceded_average,away,1.05
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals Conceded_first,away,23.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Both Teams To Score_count,all,18.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Both Teams To Score_percentage,all,40.91
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Both Teams To Score_count,home,9.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Both Teams To Score_percentage,home,50.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Both Teams To Score_count,away,9.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Both Teams To Score_percentage,away,50.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals_count,all,59.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals_average,all,1.34
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals_first,all,48.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Goals_count,home,32.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Goals_percentage,home,54.24
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Goals_average,home,1.39
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Goals_first,home,48.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals_count,away,27.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals_percentage,away,45.76
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals_average,away,1.29
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Goals_first,away,48.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Cleansheets_count,all,21.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Cleansheets_percentage,all,47.73
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Cleansheets_count,home,11.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Cleansheets_percentage,home,52.38
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Cleansheets_count,away,10.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Cleansheets_percentage,away,47.62
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Draws_count,all,9.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Draws_percentage,all,20.45
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Team Draws_count,home,5.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Team Draws_percentage,home,55.56
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Draws_count,away,4.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Draws_percentage,away,44.44
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Lost_count,all,13.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Lost_percentage,all,29.55
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Team Lost_count,home,6.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Team Lost_percentage,home,46.15
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Lost_count,away,7.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Team Lost_percentage,away,53.85
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Failed To Score_count,all,11.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Failed To Score_percentage,all,25.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Failed To Score_count,home,7.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Failed To Score_percentage,home,63.64
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,True,Failed To Score_overall_percentage,home,15.91
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Failed To Score_count,away,4.0
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Failed To Score_percentage,away,36.36
+team_stat_609_19684,2022-2023,2025-04-24T23:16:05.420644,609,Tigres UANL,False,Failed To Score_overall_percentage,away,9.09
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals_count,all,66.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals_average,all,1.57
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals_first,all,44.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Goals_count,home,37.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Goals_percentage,home,56.06
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Goals_average,home,1.76
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Goals_first,home,44.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals_count,away,29.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals_percentage,away,43.94
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals_average,away,1.38
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals_first,away,44.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Wins_count,all,21.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Wins_percentage,all,50.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Team Wins_count,home,12.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Team Wins_percentage,home,57.14
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Wins_count,away,9.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Wins_percentage,away,42.86
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals Conceded_count,all,45.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals Conceded_average,all,1.07
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals Conceded_first,all,40.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Goals Conceded_count,home,19.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Goals Conceded_percentage,home,42.22
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Goals Conceded_average,home,0.9
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Goals Conceded_first,home,42.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals Conceded_count,away,26.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals Conceded_percentage,away,57.78
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals Conceded_average,away,1.24
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Goals Conceded_first,away,38.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Draws_count,all,10.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Draws_percentage,all,23.81
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Team Draws_count,home,6.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Team Draws_percentage,home,60.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Draws_count,away,4.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Draws_percentage,away,40.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Cleansheets_count,all,14.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Cleansheets_percentage,all,33.33
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Cleansheets_count,home,9.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Cleansheets_percentage,home,64.29
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Cleansheets_count,away,5.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Cleansheets_percentage,away,35.71
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Failed To Score_count,all,9.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Failed To Score_percentage,all,21.43
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Failed To Score_count,home,5.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Failed To Score_percentage,home,55.56
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Failed To Score_overall_percentage,home,11.9
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Failed To Score_count,away,4.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Failed To Score_percentage,away,44.44
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Failed To Score_overall_percentage,away,9.52
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Lost_count,all,11.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Lost_percentage,all,26.19
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Team Lost_count,home,3.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Team Lost_percentage,home,27.27
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Lost_count,away,8.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Team Lost_percentage,away,72.73
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Both Teams To Score_count,all,21.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Both Teams To Score_percentage,all,50.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Both Teams To Score_count,home,9.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,True,Both Teams To Score_percentage,home,42.86
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Both Teams To Score_count,away,12.0
+team_stat_609_18469,2021-2022,2025-04-24T23:16:05.807198,609,Tigres UANL,False,Both Teams To Score_percentage,away,57.14
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Lost_count,all,11.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Lost_percentage,all,28.95
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Team Lost_count,home,6.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Team Lost_percentage,home,54.55
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Lost_count,away,5.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Lost_percentage,away,45.45
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Cleansheets_count,all,13.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Cleansheets_percentage,all,34.21
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Cleansheets_count,home,4.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Cleansheets_percentage,home,30.77
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Cleansheets_count,away,9.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Cleansheets_percentage,away,69.23
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Draws_count,all,12.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Draws_percentage,all,31.58
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Team Draws_count,home,5.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Team Draws_percentage,home,41.67
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Draws_count,away,7.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Draws_percentage,away,58.33
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals Conceded_count,all,41.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals Conceded_average,all,1.08
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals Conceded_first,all,53.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Goals Conceded_count,home,24.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Goals Conceded_percentage,home,58.54
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Goals Conceded_average,home,1.26
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Goals Conceded_first,home,49.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals Conceded_count,away,17.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals Conceded_percentage,away,41.46
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals Conceded_average,away,0.89
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals Conceded_first,away,58.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals_count,all,50.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals_average,all,1.32
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals_first,all,49.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Goals_count,home,28.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Goals_percentage,home,56.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Goals_average,home,1.47
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Goals_first,home,44.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals_count,away,22.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals_percentage,away,44.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals_average,away,1.16
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Goals_first,away,55.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Wins_count,all,15.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Wins_percentage,all,39.47
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Team Wins_count,home,8.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Team Wins_percentage,home,53.33
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Wins_count,away,7.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Team Wins_percentage,away,46.67
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Failed To Score_count,all,8.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Failed To Score_percentage,all,21.05
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Failed To Score_count,home,2.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Failed To Score_percentage,home,25.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,True,Failed To Score_overall_percentage,home,5.26
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Failed To Score_count,away,6.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Failed To Score_percentage,away,75.0
+team_stat_609_17191,2020-2021,2025-04-24T23:16:06.345072,609,Tigres UANL,False,Failed To Score_overall_percentage,away,15.79

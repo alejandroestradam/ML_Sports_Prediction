@@ -1,0 +1,82 @@
+team_id,team_name,season_id,season_name,statistic_type,statistic_code,statistic_group,location,metric,value
+10036,Pachuca,21623,2023/2024,Attacks,attacks,offensive,overall,count,4422.0
+10036,Pachuca,21623,2023/2024,Attacks,attacks,offensive,overall,average,116.37
+10036,Pachuca,21623,2023/2024,Fouls,fouls,defensive,overall,count,454.0
+10036,Pachuca,21623,2023/2024,Fouls,fouls,defensive,overall,average,11.95
+10036,Pachuca,21623,2023/2024,Offsides,offsides,offensive,overall,count,67.0
+10036,Pachuca,21623,2023/2024,Offsides,offsides,offensive,overall,average,1.76
+10036,Pachuca,21623,2023/2024,Dangerous Attacks,dangerous-attacks,offensive,overall,count,1802.0
+10036,Pachuca,21623,2023/2024,Dangerous Attacks,dangerous-attacks,offensive,overall,average,47.42
+10036,Pachuca,21623,2023/2024,Tackles,tackles,defensive,overall,count,675.0
+10036,Pachuca,21623,2023/2024,Tackles,tackles,defensive,overall,average,17.76
+10036,Pachuca,21623,2023/2024,Team Draws,team-draws,,all,count,12.0
+10036,Pachuca,21623,2023/2024,Team Draws,team-draws,,all,percentage,31.58
+10036,Pachuca,21623,2023/2024,Team Draws,team-draws,,home,count,7.0
+10036,Pachuca,21623,2023/2024,Team Draws,team-draws,,home,percentage,58.33
+10036,Pachuca,21623,2023/2024,Team Draws,team-draws,,away,count,5.0
+10036,Pachuca,21623,2023/2024,Team Draws,team-draws,,away,percentage,41.67
+10036,Pachuca,21623,2023/2024,Team Wins,team-wins,,all,count,15.0
+10036,Pachuca,21623,2023/2024,Team Wins,team-wins,,all,percentage,39.47
+10036,Pachuca,21623,2023/2024,Team Wins,team-wins,,home,count,8.0
+10036,Pachuca,21623,2023/2024,Team Wins,team-wins,,home,percentage,53.33
+10036,Pachuca,21623,2023/2024,Team Wins,team-wins,,away,count,7.0
+10036,Pachuca,21623,2023/2024,Team Wins,team-wins,,away,percentage,46.67
+10036,Pachuca,21623,2023/2024,Failed To Score,failed-toscore,offensive,all,count,8.0
+10036,Pachuca,21623,2023/2024,Failed To Score,failed-toscore,offensive,all,percentage,21.05
+10036,Pachuca,21623,2023/2024,Failed To Score,failed-toscore,offensive,home,count,4.0
+10036,Pachuca,21623,2023/2024,Failed To Score,failed-toscore,offensive,home,percentage,50.0
+10036,Pachuca,21623,2023/2024,Failed To Score,failed-toscore,offensive,home,overall_percentage,10.53
+10036,Pachuca,21623,2023/2024,Failed To Score,failed-toscore,offensive,away,count,4.0
+10036,Pachuca,21623,2023/2024,Failed To Score,failed-toscore,offensive,away,percentage,50.0
+10036,Pachuca,21623,2023/2024,Failed To Score,failed-toscore,offensive,away,overall_percentage,10.53
+10036,Pachuca,21623,2023/2024,Goals Conceded,goals-conceded,defensive,all,count,57.0
+10036,Pachuca,21623,2023/2024,Goals Conceded,goals-conceded,defensive,all,average,1.5
+10036,Pachuca,21623,2023/2024,Goals Conceded,goals-conceded,defensive,all,first,35.0
+10036,Pachuca,21623,2023/2024,Goals Conceded,goals-conceded,defensive,home,count,29.0
+10036,Pachuca,21623,2023/2024,Goals Conceded,goals-conceded,defensive,home,percentage,50.88
+10036,Pachuca,21623,2023/2024,Goals Conceded,goals-conceded,defensive,home,average,1.45
+10036,Pachuca,21623,2023/2024,Goals Conceded,goals-conceded,defensive,home,first,36.0
+10036,Pachuca,21623,2023/2024,Goals Conceded,goals-conceded,defensive,away,count,28.0
+10036,Pachuca,21623,2023/2024,Goals Conceded,goals-conceded,defensive,away,percentage,49.12
+10036,Pachuca,21623,2023/2024,Goals Conceded,goals-conceded,defensive,away,average,1.56
+10036,Pachuca,21623,2023/2024,Goals Conceded,goals-conceded,defensive,away,first,35.0
+10036,Pachuca,21623,2023/2024,Ball Possession %,ball-possession,overall,overall,count,1899.0
+10036,Pachuca,21623,2023/2024,Ball Possession %,ball-possession,overall,overall,average,49.97
+10036,Pachuca,21623,2023/2024,Yellowcards,yellowcards,overall,overall,count,99.0
+10036,Pachuca,21623,2023/2024,Yellowcards,yellowcards,overall,overall,average,2.61
+10036,Pachuca,21623,2023/2024,Yellowred Cards,yellowred-cards,overall,overall,count,3.0
+10036,Pachuca,21623,2023/2024,Yellowred Cards,yellowred-cards,overall,overall,average,0.08
+10036,Pachuca,21623,2023/2024,Cleansheets,cleansheets,,all,count,8.0
+10036,Pachuca,21623,2023/2024,Cleansheets,cleansheets,,all,percentage,21.05
+10036,Pachuca,21623,2023/2024,Cleansheets,cleansheets,,home,count,2.0
+10036,Pachuca,21623,2023/2024,Cleansheets,cleansheets,,home,percentage,25.0
+10036,Pachuca,21623,2023/2024,Cleansheets,cleansheets,,away,count,6.0
+10036,Pachuca,21623,2023/2024,Cleansheets,cleansheets,,away,percentage,75.0
+10036,Pachuca,21623,2023/2024,Team Lost,team-lost,,all,count,11.0
+10036,Pachuca,21623,2023/2024,Team Lost,team-lost,,all,percentage,28.95
+10036,Pachuca,21623,2023/2024,Team Lost,team-lost,,home,count,5.0
+10036,Pachuca,21623,2023/2024,Team Lost,team-lost,,home,percentage,45.45
+10036,Pachuca,21623,2023/2024,Team Lost,team-lost,,away,count,6.0
+10036,Pachuca,21623,2023/2024,Team Lost,team-lost,,away,percentage,54.55
+10036,Pachuca,21623,2023/2024,Shots,shots,offensive,overall,average,16.68
+10036,Pachuca,21623,2023/2024,Goals,goals,offensive,all,count,54.0
+10036,Pachuca,21623,2023/2024,Goals,goals,offensive,all,average,1.42
+10036,Pachuca,21623,2023/2024,Goals,goals,offensive,all,first,45.0
+10036,Pachuca,21623,2023/2024,Goals,goals,offensive,home,count,30.0
+10036,Pachuca,21623,2023/2024,Goals,goals,offensive,home,percentage,55.56
+10036,Pachuca,21623,2023/2024,Goals,goals,offensive,home,average,1.5
+10036,Pachuca,21623,2023/2024,Goals,goals,offensive,home,first,38.0
+10036,Pachuca,21623,2023/2024,Goals,goals,offensive,away,count,24.0
+10036,Pachuca,21623,2023/2024,Goals,goals,offensive,away,percentage,44.44
+10036,Pachuca,21623,2023/2024,Goals,goals,offensive,away,average,1.33
+10036,Pachuca,21623,2023/2024,Goals,goals,offensive,away,first,53.0
+10036,Pachuca,21623,2023/2024,Corners,corners,offensive,overall,count,226.0
+10036,Pachuca,21623,2023/2024,Corners,corners,offensive,overall,average,5.95
+10036,Pachuca,21623,2023/2024,Both Teams To Score,btts,,all,count,24.0
+10036,Pachuca,21623,2023/2024,Both Teams To Score,btts,,all,percentage,63.16
+10036,Pachuca,21623,2023/2024,Both Teams To Score,btts,,home,count,15.0
+10036,Pachuca,21623,2023/2024,Both Teams To Score,btts,,home,percentage,62.5
+10036,Pachuca,21623,2023/2024,Both Teams To Score,btts,,away,count,9.0
+10036,Pachuca,21623,2023/2024,Both Teams To Score,btts,,away,percentage,37.5
+10036,Pachuca,21623,2023/2024,Redcards,redcards,overall,overall,count,1.0
+10036,Pachuca,21623,2023/2024,Redcards,redcards,overall,overall,average,0.03

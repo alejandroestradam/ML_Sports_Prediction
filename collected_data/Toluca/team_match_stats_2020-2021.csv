@@ -1,0 +1,55 @@
+match_id,season_name,match_date,team_id,team_name,is_home,statistic_type,statistic_location,value
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals_count,all,55.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals_average,all,1.45
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals_first,all,37.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Goals_count,home,34.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Goals_percentage,home,61.82
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Goals_average,home,1.89
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Goals_first,home,38.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals_count,away,21.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals_percentage,away,38.18
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals_average,away,1.05
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals_first,away,37.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Draws_count,all,8.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Draws_percentage,all,21.05
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Team Draws_count,home,3.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Team Draws_percentage,home,37.5
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Draws_count,away,5.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Draws_percentage,away,62.5
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Cleansheets_count,all,9.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Cleansheets_percentage,all,23.68
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Cleansheets_count,home,6.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Cleansheets_percentage,home,66.67
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Cleansheets_count,away,3.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Cleansheets_percentage,away,33.33
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Wins_count,all,13.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Wins_percentage,all,34.21
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Team Wins_count,home,11.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Team Wins_percentage,home,84.62
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Wins_count,away,2.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Wins_percentage,away,15.38
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals Conceded_count,all,60.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals Conceded_average,all,1.58
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals Conceded_first,all,35.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Goals Conceded_count,home,21.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Goals Conceded_percentage,home,35.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Goals Conceded_average,home,1.17
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Goals Conceded_first,home,45.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals Conceded_count,away,39.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals Conceded_percentage,away,65.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals Conceded_average,away,1.95
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Goals Conceded_first,away,28.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Failed To Score_count,all,7.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Failed To Score_percentage,all,18.42
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Failed To Score_count,home,3.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Failed To Score_percentage,home,42.86
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Failed To Score_overall_percentage,home,7.89
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Failed To Score_count,away,4.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Failed To Score_percentage,away,57.14
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Failed To Score_overall_percentage,away,10.53
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Lost_count,all,17.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Lost_percentage,all,44.74
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Team Lost_count,home,4.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,True,Team Lost_percentage,home,23.53
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Lost_count,away,13.0
+team_stat_967_17191,2020-2021,2025-04-24T23:16:04.000997,967,Toluca,False,Team Lost_percentage,away,76.47

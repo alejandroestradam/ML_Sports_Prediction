@@ -1,0 +1,97 @@
+﻿team_id,team_name,season_name,statistic_name,statistic_code,metric,value,location,time_period
+3951,Necaxa,2021-2022,Corners,corners,corners_count,170.0,,
+3951,Necaxa,2021-2022,Corners,corners,corners_average,4.86,,
+3951,Necaxa,2021-2022,Dangerous Attacks,dangerous-attacks,dangerous-attacks_count,1125.0,,
+3951,Necaxa,2021-2022,Dangerous Attacks,dangerous-attacks,dangerous-attacks_average,32.14,,
+3951,Necaxa,2021-2022,Goals Conceded,goals-conceded,count,44.0,all,
+3951,Necaxa,2021-2022,Goals Conceded,goals-conceded,average,1.26,all,
+3951,Necaxa,2021-2022,Goals Conceded,goals-conceded,first,38.0,all,
+3951,Necaxa,2021-2022,Goals Conceded,goals-conceded,count,23.0,home,
+3951,Necaxa,2021-2022,Goals Conceded,goals-conceded,percentage,52.27,home,
+3951,Necaxa,2021-2022,Goals Conceded,goals-conceded,average,1.35,home,
+3951,Necaxa,2021-2022,Goals Conceded,goals-conceded,first,40.0,home,
+3951,Necaxa,2021-2022,Goals Conceded,goals-conceded,count,21.0,away,
+3951,Necaxa,2021-2022,Goals Conceded,goals-conceded,percentage,47.73,away,
+3951,Necaxa,2021-2022,Goals Conceded,goals-conceded,average,1.17,away,
+3951,Necaxa,2021-2022,Goals Conceded,goals-conceded,first,37.0,away,
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,count,5.0,,0-15
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,11.36,,0-15
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,count,7.0,,15-30
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,15.91,,15-30
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,count,11.0,,30-45
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,25.0,,30-45
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,count,7.0,,45-60
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,15.91,,45-60
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,count,6.0,,60-75
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,13.64,,60-75
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,count,8.0,,75-90
+3951,Necaxa,2021-2022,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,18.18,,75-90
+3951,Necaxa,2021-2022,Goals,goals,count,38.0,all,
+3951,Necaxa,2021-2022,Goals,goals,average,1.09,all,
+3951,Necaxa,2021-2022,Goals,goals,first,51.0,all,
+3951,Necaxa,2021-2022,Goals,goals,count,18.0,home,
+3951,Necaxa,2021-2022,Goals,goals,percentage,47.37,home,
+3951,Necaxa,2021-2022,Goals,goals,average,1.06,home,
+3951,Necaxa,2021-2022,Goals,goals,first,40.0,home,
+3951,Necaxa,2021-2022,Goals,goals,count,20.0,away,
+3951,Necaxa,2021-2022,Goals,goals,percentage,52.63,away,
+3951,Necaxa,2021-2022,Goals,goals,average,1.11,away,
+3951,Necaxa,2021-2022,Goals,goals,first,58.0,away,
+3951,Necaxa,2021-2022,Offsides,offsides,offsides_count,36.0,,
+3951,Necaxa,2021-2022,Offsides,offsides,offsides_average,1.03,,
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,count,2.0,,0-15
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,percentage,5.26,,0-15
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,count,5.0,,15-30
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,percentage,13.16,,15-30
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,count,6.0,,30-45
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,percentage,15.79,,30-45
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,count,9.0,,45-60
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,percentage,23.68,,45-60
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,count,4.0,,60-75
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,percentage,10.53,,60-75
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,count,12.0,,75-90
+3951,Necaxa,2021-2022,Scoring Minutes,scoring-minutes,percentage,31.58,,75-90
+3951,Necaxa,2021-2022,Attacks,attacks,attacks_count,3409.0,,
+3951,Necaxa,2021-2022,Attacks,attacks,attacks_average,97.4,,
+3951,Necaxa,2021-2022,Shots,shots,shots_total,370.0,,
+3951,Necaxa,2021-2022,Shots,shots,shots_on_target,147.0,,
+3951,Necaxa,2021-2022,Shots,shots,shots_off_target,203.0,,
+3951,Necaxa,2021-2022,Shots,shots,shots_inside_box,254.0,,
+3951,Necaxa,2021-2022,Shots,shots,shots_outside_box,183.0,,
+3951,Necaxa,2021-2022,Shots,shots,shots_blocked,56.0,,
+3951,Necaxa,2021-2022,Shots,shots,shots_average,10.57,,
+3951,Necaxa,2021-2022,Failed To Score,failed-toscore,count,13.0,all,
+3951,Necaxa,2021-2022,Failed To Score,failed-toscore,percentage,37.14,all,
+3951,Necaxa,2021-2022,Failed To Score,failed-toscore,count,8.0,home,
+3951,Necaxa,2021-2022,Failed To Score,failed-toscore,percentage,61.54,home,
+3951,Necaxa,2021-2022,Failed To Score,failed-toscore,overall_percentage,22.86,home,
+3951,Necaxa,2021-2022,Failed To Score,failed-toscore,count,5.0,away,
+3951,Necaxa,2021-2022,Failed To Score,failed-toscore,percentage,38.46,away,
+3951,Necaxa,2021-2022,Failed To Score,failed-toscore,overall_percentage,14.29,away,
+3951,Necaxa,2021-2022,Penalties,penalties,penalties_scored,4.0,,
+3951,Necaxa,2021-2022,Penalties,penalties,penalties_missed,1.0,,
+3951,Necaxa,2021-2022,Penalties,penalties,penalties_conversion_rate,80.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_0_5_matches_count,33.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_0_5_matches_percentage,94.29,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_0_5_team_count,22.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_0_5_team_percentage,62.86,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_1_5_matches_count,23.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_1_5_matches_percentage,65.71,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_1_5_team_count,9.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_1_5_team_percentage,25.71,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_2_5_matches_count,18.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_2_5_matches_percentage,51.43,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_2_5_team_count,5.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_2_5_team_percentage,14.29,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_3_5_matches_count,5.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_3_5_matches_percentage,14.29,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_3_5_team_count,2.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_3_5_team_percentage,5.71,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_4_5_matches_count,2.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_4_5_matches_percentage,5.71,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_4_5_team_count,0.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_4_5_team_percentage,0.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_5_5_matches_count,1.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_5_5_matches_percentage,2.86,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_5_5_team_count,0.0,,
+3951,Necaxa,2021-2022,Number Of Goals,number-of-goals,number-of-goals_over_5_5_team_percentage,0.0,,

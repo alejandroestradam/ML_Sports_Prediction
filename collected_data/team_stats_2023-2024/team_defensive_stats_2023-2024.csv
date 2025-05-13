@@ -1,0 +1,5 @@
+﻿team_id,team_name,season_name,statistic_name,statistic_code,metric,value
+3951,Necaxa,2023-2024,Fouls,fouls,fouls_count,436.0
+3951,Necaxa,2023-2024,Fouls,fouls,fouls_average,12.11
+3951,Necaxa,2023-2024,Tackles,tackles,tackles_count,689.0
+3951,Necaxa,2023-2024,Tackles,tackles,tackles_average,19.14

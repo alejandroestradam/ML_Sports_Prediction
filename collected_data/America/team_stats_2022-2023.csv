@@ -1,0 +1,80 @@
+team_id,team_name,season_id,season_name,statistic_type,statistic_code,statistic_group,location,metric,value
+2687,América,19684,2022/2023,Offsides,offsides,offensive,overall,count,73.0
+2687,América,19684,2022/2023,Offsides,offsides,offensive,overall,average,1.74
+2687,América,19684,2022/2023,Failed To Score,failed-toscore,offensive,all,count,4.0
+2687,América,19684,2022/2023,Failed To Score,failed-toscore,offensive,all,percentage,9.52
+2687,América,19684,2022/2023,Failed To Score,failed-toscore,offensive,home,count,3.0
+2687,América,19684,2022/2023,Failed To Score,failed-toscore,offensive,home,percentage,75.0
+2687,América,19684,2022/2023,Failed To Score,failed-toscore,offensive,home,overall_percentage,7.14
+2687,América,19684,2022/2023,Failed To Score,failed-toscore,offensive,away,count,1.0
+2687,América,19684,2022/2023,Failed To Score,failed-toscore,offensive,away,percentage,25.0
+2687,América,19684,2022/2023,Failed To Score,failed-toscore,offensive,away,overall_percentage,2.38
+2687,América,19684,2022/2023,Attacks,attacks,offensive,overall,count,3430.0
+2687,América,19684,2022/2023,Attacks,attacks,offensive,overall,average,81.67
+2687,América,19684,2022/2023,Corners,corners,offensive,overall,count,247.0
+2687,América,19684,2022/2023,Corners,corners,offensive,overall,average,5.88
+2687,América,19684,2022/2023,Fouls,fouls,defensive,overall,count,411.0
+2687,América,19684,2022/2023,Fouls,fouls,defensive,overall,average,9.79
+2687,América,19684,2022/2023,Ball Possession %,ball-possession,overall,overall,count,2258.0
+2687,América,19684,2022/2023,Ball Possession %,ball-possession,overall,overall,average,53.76
+2687,América,19684,2022/2023,Team Wins,team-wins,,all,count,25.0
+2687,América,19684,2022/2023,Team Wins,team-wins,,all,percentage,59.52
+2687,América,19684,2022/2023,Team Wins,team-wins,,home,count,11.0
+2687,América,19684,2022/2023,Team Wins,team-wins,,home,percentage,44.0
+2687,América,19684,2022/2023,Team Wins,team-wins,,away,count,14.0
+2687,América,19684,2022/2023,Team Wins,team-wins,,away,percentage,56.0
+2687,América,19684,2022/2023,Tackles,tackles,defensive,overall,count,643.0
+2687,América,19684,2022/2023,Tackles,tackles,defensive,overall,average,15.31
+2687,América,19684,2022/2023,Goals Conceded,goals-conceded,defensive,all,count,49.0
+2687,América,19684,2022/2023,Goals Conceded,goals-conceded,defensive,all,average,1.17
+2687,América,19684,2022/2023,Goals Conceded,goals-conceded,defensive,all,first,34.0
+2687,América,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,count,24.0
+2687,América,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,percentage,48.98
+2687,América,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,average,1.14
+2687,América,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,first,41.0
+2687,América,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,count,25.0
+2687,América,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,percentage,51.02
+2687,América,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,average,1.19
+2687,América,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,first,26.0
+2687,América,19684,2022/2023,Goals,goals,offensive,all,count,93.0
+2687,América,19684,2022/2023,Goals,goals,offensive,all,average,2.21
+2687,América,19684,2022/2023,Goals,goals,offensive,all,first,37.0
+2687,América,19684,2022/2023,Goals,goals,offensive,home,count,45.0
+2687,América,19684,2022/2023,Goals,goals,offensive,home,percentage,48.39
+2687,América,19684,2022/2023,Goals,goals,offensive,home,average,2.14
+2687,América,19684,2022/2023,Goals,goals,offensive,home,first,40.0
+2687,América,19684,2022/2023,Goals,goals,offensive,away,count,48.0
+2687,América,19684,2022/2023,Goals,goals,offensive,away,percentage,51.61
+2687,América,19684,2022/2023,Goals,goals,offensive,away,average,2.29
+2687,América,19684,2022/2023,Goals,goals,offensive,away,first,35.0
+2687,América,19684,2022/2023,Team Lost,team-lost,,all,count,7.0
+2687,América,19684,2022/2023,Team Lost,team-lost,,all,percentage,16.67
+2687,América,19684,2022/2023,Team Lost,team-lost,,home,count,3.0
+2687,América,19684,2022/2023,Team Lost,team-lost,,home,percentage,42.86
+2687,América,19684,2022/2023,Team Lost,team-lost,,away,count,4.0
+2687,América,19684,2022/2023,Team Lost,team-lost,,away,percentage,57.14
+2687,América,19684,2022/2023,Yellowcards,yellowcards,overall,overall,count,82.0
+2687,América,19684,2022/2023,Yellowcards,yellowcards,overall,overall,average,1.95
+2687,América,19684,2022/2023,Dangerous Attacks,dangerous-attacks,offensive,overall,count,1840.0
+2687,América,19684,2022/2023,Dangerous Attacks,dangerous-attacks,offensive,overall,average,43.81
+2687,América,19684,2022/2023,Cleansheets,cleansheets,,all,count,12.0
+2687,América,19684,2022/2023,Cleansheets,cleansheets,,all,percentage,28.57
+2687,América,19684,2022/2023,Cleansheets,cleansheets,,home,count,6.0
+2687,América,19684,2022/2023,Cleansheets,cleansheets,,home,percentage,50.0
+2687,América,19684,2022/2023,Cleansheets,cleansheets,,away,count,6.0
+2687,América,19684,2022/2023,Cleansheets,cleansheets,,away,percentage,50.0
+2687,América,19684,2022/2023,Team Draws,team-draws,,all,count,10.0
+2687,América,19684,2022/2023,Team Draws,team-draws,,all,percentage,23.81
+2687,América,19684,2022/2023,Team Draws,team-draws,,home,count,7.0
+2687,América,19684,2022/2023,Team Draws,team-draws,,home,percentage,70.0
+2687,América,19684,2022/2023,Team Draws,team-draws,,away,count,3.0
+2687,América,19684,2022/2023,Team Draws,team-draws,,away,percentage,30.0
+2687,América,19684,2022/2023,Shots,shots,offensive,overall,average,15.74
+2687,América,19684,2022/2023,Both Teams To Score,btts,,all,count,28.0
+2687,América,19684,2022/2023,Both Teams To Score,btts,,all,percentage,66.67
+2687,América,19684,2022/2023,Both Teams To Score,btts,,home,count,14.0
+2687,América,19684,2022/2023,Both Teams To Score,btts,,home,percentage,50.0
+2687,América,19684,2022/2023,Both Teams To Score,btts,,away,count,14.0
+2687,América,19684,2022/2023,Both Teams To Score,btts,,away,percentage,50.0
+2687,América,19684,2022/2023,Redcards,redcards,overall,overall,count,2.0
+2687,América,19684,2022/2023,Redcards,redcards,overall,overall,average,0.05

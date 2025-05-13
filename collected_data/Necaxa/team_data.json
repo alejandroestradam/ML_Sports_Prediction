@@ -1,0 +1,72 @@
+{
+    "data": {
+        "id": 3951,
+        "sport_id": 1,
+        "country_id": 458,
+        "venue_id": 2315,
+        "gender": "male",
+        "name": "Necaxa",
+        "short_code": "NXA",
+        "image_path": "https://cdn.sportmonks.com/images/soccer/teams/15/3951.png",
+        "founded": 1923,
+        "type": "domestic",
+        "placeholder": false,
+        "last_played_at": "2025-04-19 01:00:00",
+        "venue": {
+            "id": 2315,
+            "country_id": 458,
+            "city_id": 762,
+            "name": "Estadio Victoria de Aguascalientes",
+            "address": "Avenida Manuel Madrigal 101, Colonia Héroes",
+            "zipcode": null,
+            "latitude": "21.880487",
+            "longitude": "-102.2967195",
+            "capacity": 23851,
+            "image_path": "https://cdn.sportmonks.com/images/soccer/venues/11/2315.png",
+            "city_name": "Aguascalientes",
+            "surface": "grass",
+            "national_team": false
+        },
+        "country": {
+            "id": 458,
+            "continent_id": 6,
+            "name": "Mexico",
+            "official_name": "United Mexican States",
+            "fifa_name": "MEX",
+            "iso2": "MX",
+            "iso3": "MEX",
+            "latitude": "23.909093856811523",
+            "longitude": "-102.6333999633789",
+            "borders": [
+                "BLZ",
+                "GTM",
+                "USA"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mx.png"
+        }
+    },
+    "subscription": [
+        {
+            "meta": {
+                "trial_ends_at": "2025-04-25 04:23:41",
+                "ends_at": "2025-04-25 04:23:41",
+                "current_timestamp": 1745386910
+            },
+            "plans": [
+                {
+                    "plan": "Worldwide Plan",
+                    "sport": "Football",
+                    "category": "Advanced"
+                }
+            ],
+            "add_ons": [],
+            "widgets": []
+        }
+    ],
+    "rate_limit": {
+        "resets_in_seconds": 3087,
+        "remaining": 2992,
+        "requested_entity": "Team"
+    },
+    "timezone": "UTC"
+}

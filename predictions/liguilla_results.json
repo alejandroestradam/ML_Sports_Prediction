@@ -1,0 +1,190 @@
+{
+    "Quarterfinals": [
+        {
+            "round": "Quarterfinals",
+            "match_id": 1,
+            "home_team": "Toluca",
+            "away_team": "Monterrey",
+            "first_leg": {
+                "prediction": "1.65 goals",
+                "home_team": "Monterrey",
+                "away_team": "Toluca",
+                "probabilities": {
+                    "Predicted Goals": 1.6462472600797253
+                },
+                "error": null
+            },
+            "second_leg": {
+                "prediction": "1.84 goals",
+                "home_team": "Toluca",
+                "away_team": "Monterrey",
+                "probabilities": {
+                    "Predicted Goals": 1.8431631540369071
+                },
+                "error": null
+            },
+            "winner": "Toluca",
+            "winner_explanation": "More goals over two legs: Toluca (1.84) vs Monterrey (1.65)"
+        },
+        {
+            "round": "Quarterfinals",
+            "match_id": 2,
+            "home_team": "America",
+            "away_team": "Pachuca",
+            "first_leg": {
+                "prediction": "1.48 goals",
+                "home_team": "Pachuca",
+                "away_team": "America",
+                "probabilities": {
+                    "Predicted Goals": 1.4761066045027746
+                },
+                "error": null
+            },
+            "second_leg": {
+                "prediction": "1.95 goals",
+                "home_team": "America",
+                "away_team": "Pachuca",
+                "probabilities": {
+                    "Predicted Goals": 1.9464871249000701
+                },
+                "error": null
+            },
+            "winner": "America",
+            "winner_explanation": "More goals over two legs: America (1.95) vs Pachuca (1.48)"
+        },
+        {
+            "round": "Quarterfinals",
+            "match_id": 3,
+            "home_team": "Cruz Azul",
+            "away_team": "Leon",
+            "first_leg": {
+                "prediction": "1.52 goals",
+                "home_team": "Leon",
+                "away_team": "Cruz Azul",
+                "probabilities": {
+                    "Predicted Goals": 1.5169613950515006
+                },
+                "error": null
+            },
+            "second_leg": {
+                "prediction": "1.50 goals",
+                "home_team": "Cruz Azul",
+                "away_team": "Leon",
+                "probabilities": {
+                    "Predicted Goals": 1.5026574744123717
+                },
+                "error": null
+            },
+            "winner": "Leon",
+            "winner_explanation": "More goals over two legs: Leon (1.52) vs Cruz Azul (1.50)"
+        },
+        {
+            "round": "Quarterfinals",
+            "match_id": 4,
+            "home_team": "Tigres UANL",
+            "away_team": "Necaxa",
+            "first_leg": {
+                "prediction": "1.33 goals",
+                "home_team": "Necaxa",
+                "away_team": "Tigres UANL",
+                "probabilities": {
+                    "Predicted Goals": 1.3289997286643134
+                },
+                "error": null
+            },
+            "second_leg": {
+                "prediction": "1.94 goals",
+                "home_team": "Tigres UANL",
+                "away_team": "Necaxa",
+                "probabilities": {
+                    "Predicted Goals": 1.942258952006326
+                },
+                "error": null
+            },
+            "winner": "Tigres UANL",
+            "winner_explanation": "More goals over two legs: Tigres UANL (1.94) vs Necaxa (1.33)"
+        }
+    ],
+    "Semifinals": [
+        {
+            "round": "Semifinals",
+            "match_id": 1,
+            "home_team": "Toluca",
+            "away_team": "Tigres UANL",
+            "first_leg": {
+                "prediction": "1.94 goals",
+                "home_team": "Tigres UANL",
+                "away_team": "Toluca",
+                "probabilities": {
+                    "Predicted Goals": 1.942258952006326
+                },
+                "error": null
+            },
+            "second_leg": {
+                "prediction": "1.84 goals",
+                "home_team": "Toluca",
+                "away_team": "Tigres UANL",
+                "probabilities": {
+                    "Predicted Goals": 1.8431631540369071
+                },
+                "error": null
+            },
+            "winner": "Tigres UANL",
+            "winner_explanation": "More goals over two legs: Tigres UANL (1.94) vs Toluca (1.84)"
+        },
+        {
+            "round": "Semifinals",
+            "match_id": 2,
+            "home_team": "America",
+            "away_team": "Leon",
+            "first_leg": {
+                "prediction": "1.52 goals",
+                "home_team": "Leon",
+                "away_team": "America",
+                "probabilities": {
+                    "Predicted Goals": 1.5169613950515006
+                },
+                "error": null
+            },
+            "second_leg": {
+                "prediction": "1.95 goals",
+                "home_team": "America",
+                "away_team": "Leon",
+                "probabilities": {
+                    "Predicted Goals": 1.9464871249000701
+                },
+                "error": null
+            },
+            "winner": "America",
+            "winner_explanation": "More goals over two legs: America (1.95) vs Leon (1.52)"
+        }
+    ],
+    "Final": [
+        {
+            "round": "Final",
+            "match_id": 1,
+            "home_team": "Tigres UANL",
+            "away_team": "America",
+            "first_leg": {
+                "prediction": "1.95 goals",
+                "home_team": "America",
+                "away_team": "Tigres UANL",
+                "probabilities": {
+                    "Predicted Goals": 1.9464871249000701
+                },
+                "error": null
+            },
+            "second_leg": {
+                "prediction": "1.94 goals",
+                "home_team": "Tigres UANL",
+                "away_team": "America",
+                "probabilities": {
+                    "Predicted Goals": 1.942258952006326
+                },
+                "error": null
+            },
+            "winner": "America",
+            "winner_explanation": "More goals over two legs: America (1.95) vs Tigres UANL (1.94)"
+        }
+    ]
+}

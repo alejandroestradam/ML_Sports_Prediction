@@ -1,0 +1,61 @@
+match_id,season_name,match_date,team_id,team_name,is_home,statistic_type,statistic_location,value
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Draws_count,all,10.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Draws_percentage,all,28.57
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Team Draws_count,home,6.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Team Draws_percentage,home,60.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Draws_count,away,4.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Draws_percentage,away,40.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals Conceded_count,all,60.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals Conceded_average,all,1.71
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals Conceded_first,all,30.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Goals Conceded_count,home,30.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Goals Conceded_percentage,home,50.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Goals Conceded_average,home,1.67
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Goals Conceded_first,home,31.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals Conceded_count,away,30.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals Conceded_percentage,away,50.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals Conceded_average,away,1.76
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals Conceded_first,away,29.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Wins_count,all,11.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Wins_percentage,all,31.43
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Team Wins_count,home,5.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Team Wins_percentage,home,45.45
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Wins_count,away,6.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Wins_percentage,away,54.55
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Cleansheets_count,all,5.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Cleansheets_percentage,all,14.29
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Cleansheets_count,home,1.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Cleansheets_percentage,home,20.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Cleansheets_count,away,4.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Cleansheets_percentage,away,80.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals_count,all,44.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals_average,all,1.26
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals_first,all,33.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Goals_count,home,26.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Goals_percentage,home,59.09
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Goals_average,home,1.44
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Goals_first,home,35.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals_count,away,18.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals_percentage,away,40.91
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals_average,away,1.06
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Goals_first,away,31.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Failed To Score_count,all,11.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Failed To Score_percentage,all,31.43
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Failed To Score_count,home,3.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Failed To Score_percentage,home,27.27
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Failed To Score_overall_percentage,home,8.57
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Failed To Score_count,away,8.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Failed To Score_percentage,away,72.73
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Failed To Score_overall_percentage,away,22.86
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Lost_count,all,14.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Lost_percentage,all,40.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Team Lost_count,home,7.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Team Lost_percentage,home,50.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Lost_count,away,7.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Team Lost_percentage,away,50.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Both Teams To Score_count,all,21.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Both Teams To Score_percentage,all,60.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Both Teams To Score_count,home,15.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,True,Both Teams To Score_percentage,home,71.43
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Both Teams To Score_count,away,6.0
+team_stat_967_18469,2021-2022,2025-04-24T23:16:03.579091,967,Toluca,False,Both Teams To Score_percentage,away,28.57

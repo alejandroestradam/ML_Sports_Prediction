@@ -1,0 +1,61 @@
+match_id,season_name,match_date,team_id,team_name,is_home,statistic_type,statistic_location,value
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Failed To Score_count,all,11.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Failed To Score_percentage,all,30.56
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Failed To Score_count,home,5.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Failed To Score_percentage,home,45.45
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Failed To Score_overall_percentage,home,13.89
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Failed To Score_count,away,6.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Failed To Score_percentage,away,54.55
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Failed To Score_overall_percentage,away,16.67
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Cleansheets_count,all,12.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Cleansheets_percentage,all,33.33
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Cleansheets_count,home,5.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Cleansheets_percentage,home,41.67
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Cleansheets_count,away,7.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Cleansheets_percentage,away,58.33
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals_count,all,49.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals_average,all,1.36
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals_first,all,39.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Goals_count,home,31.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Goals_percentage,home,63.27
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Goals_average,home,1.72
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Goals_first,home,39.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals_count,away,18.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals_percentage,away,36.73
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals_average,away,1.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals_first,away,39.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Wins_count,all,14.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Wins_percentage,all,38.89
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Team Wins_count,home,9.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Team Wins_percentage,home,64.29
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Wins_count,away,5.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Wins_percentage,away,35.71
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Draws_count,all,10.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Draws_percentage,all,27.78
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Team Draws_count,home,4.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Team Draws_percentage,home,40.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Draws_count,away,6.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Draws_percentage,away,60.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals Conceded_count,all,46.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals Conceded_average,all,1.28
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals Conceded_first,all,42.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Goals Conceded_count,home,23.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Goals Conceded_percentage,home,50.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Goals Conceded_average,home,1.28
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Goals Conceded_first,home,39.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals Conceded_count,away,23.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals Conceded_percentage,away,50.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals Conceded_average,away,1.28
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Goals Conceded_first,away,45.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Lost_count,all,12.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Lost_percentage,all,33.33
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Team Lost_count,home,5.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Team Lost_percentage,home,41.67
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Lost_count,away,7.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Team Lost_percentage,away,58.33
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Both Teams To Score_count,all,18.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Both Teams To Score_percentage,all,50.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Both Teams To Score_count,home,9.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,True,Both Teams To Score_percentage,home,50.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Both Teams To Score_count,away,9.0
+team_stat_10836_19684,2022-2023,2025-04-24T23:16:07.509376,10836,Leon,False,Both Teams To Score_percentage,away,50.0

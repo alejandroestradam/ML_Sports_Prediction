@@ -1,0 +1,10 @@
+player_id,player_name,season_id,season_name,team_id,team_name,position,jersey_number,appearances,minutes_played,goals,assists,shots_total,shots_on_target,passes_total,passes_accuracy,tackles,interceptions
+37526281,Alan Montes,19684,2022/2023,3951,Necaxa,25,23,0,0,7,0,0,0,0.0,0,0,0
+37648333,Rogelio Cortéz Pineda,19684,2022/2023,3951,Necaxa,26,188,9,144,12,0,1,0,82.35,0,5,1
+37561615,Arturo Palma,19684,2022/2023,3951,Necaxa,27,15,0,0,9,0,0,0,0.0,0,0,0
+254419,Alexis Peña,19684,2022/2023,3951,Necaxa,25,4,35,3106,51,1,12,0,78.35,0,58,61
+37614448,Diego Gómez,19684,2022/2023,3951,Necaxa,26,196,15,259,4,0,1,0,79.0,0,8,4
+1525415,Ricardo Monreal,19684,2022/2023,3951,Necaxa,27,30,26,822,23,3,2,0,71.54,0,22,6
+18209129,Agustín Oliveros,19684,2022/2023,3951,Necaxa,25,3,35,2997,50,1,8,0,74.65,0,48,40
+37685611,Arath Moreno Martinez,19684,2022/2023,3951,Necaxa,26,254,0,0,1,0,0,0,0.0,0,0,0
+37307785,Alejandro Andrade,19684,2022/2023,3951,Necaxa,26,13,1,66,1,0,2,0,90.0,0,4,0

@@ -1,0 +1,7 @@
+player_id,player_name,season_id,season_name,team_id,team_name,position,jersey_number,appearances,minutes_played,goals,assists,shots_total,shots_on_target,passes_total,passes_accuracy,tackles,interceptions
+37526280,Jesus Alcantar,17191,2020/2021,3951,Necaxa,25,199,0,0,3,0,0,0,0.0,0,0,0
+37526281,Alan Montes,17191,2020/2021,3951,Necaxa,25,205,1,22,11,0,0,0,50.0,0,0,1
+37554747,Bryan Roque,17191,2020/2021,3951,Necaxa,27,259,2,20,5,0,1,0,75.0,0,0,0
+37560536,Alfredo Gutierrez,17191,2020/2021,3951,Necaxa,25,203,0,0,2,0,0,0,0.0,0,0,0
+5666518,Raúl Sandoval,17191,2020/2021,3951,Necaxa,25,18,13,452,29,0,2,0,74.36,0,5,9
+37307785,Alejandro Andrade,17191,2020/2021,3951,Necaxa,26,194,12,558,24,0,2,0,79.53,0,15,2

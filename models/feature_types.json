@@ -1,0 +1,32 @@
+{
+    "team_performance": [
+        "form_value_Goals Conceded_average",
+        "form_value_Goals_average",
+        "form_value_Team Wins_percentage",
+        "value_Cleansheets_percentage",
+        "value_Failed To Score_percentage",
+        "value_Goals Conceded_average",
+        "value_Team Wins_percentage"
+    ],
+    "team_strength": [
+        "team_strength_",
+        "form_value_Goals Conceded_average",
+        "form_value_Goals_average",
+        "form_value_Team Wins_percentage"
+    ],
+    "match_context": [
+        "is_home_",
+        "tournament_phase_",
+        "detailed_phase_"
+    ],
+    "player_based": [
+        "total_players",
+        "players_min_5_appearances",
+        "avg_player_goals",
+        "max_player_goals",
+        "avg_player_assists",
+        "max_player_assists",
+        "player_continuity",
+        "player_retention_rate"
+    ]
+}

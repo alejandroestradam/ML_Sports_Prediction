@@ -1,0 +1,82 @@
+team_id,team_name,season_id,season_name,statistic_type,statistic_code,statistic_group,location,metric,value
+2687,América,18469,2021/2022,Corners,corners,offensive,overall,count,202.0
+2687,América,18469,2021/2022,Corners,corners,offensive,overall,average,5.05
+2687,América,18469,2021/2022,Dangerous Attacks,dangerous-attacks,offensive,overall,count,1664.0
+2687,América,18469,2021/2022,Dangerous Attacks,dangerous-attacks,offensive,overall,average,41.6
+2687,América,18469,2021/2022,Team Draws,team-draws,,all,count,13.0
+2687,América,18469,2021/2022,Team Draws,team-draws,,all,percentage,32.5
+2687,América,18469,2021/2022,Team Draws,team-draws,,home,count,5.0
+2687,América,18469,2021/2022,Team Draws,team-draws,,home,percentage,38.46
+2687,América,18469,2021/2022,Team Draws,team-draws,,away,count,8.0
+2687,América,18469,2021/2022,Team Draws,team-draws,,away,percentage,61.54
+2687,América,18469,2021/2022,Fouls,fouls,defensive,overall,count,465.0
+2687,América,18469,2021/2022,Fouls,fouls,defensive,overall,average,11.63
+2687,América,18469,2021/2022,Goals Conceded,goals-conceded,defensive,all,count,37.0
+2687,América,18469,2021/2022,Goals Conceded,goals-conceded,defensive,all,average,0.93
+2687,América,18469,2021/2022,Goals Conceded,goals-conceded,defensive,all,first,39.0
+2687,América,18469,2021/2022,Goals Conceded,goals-conceded,defensive,home,count,17.0
+2687,América,18469,2021/2022,Goals Conceded,goals-conceded,defensive,home,percentage,45.95
+2687,América,18469,2021/2022,Goals Conceded,goals-conceded,defensive,home,average,0.85
+2687,América,18469,2021/2022,Goals Conceded,goals-conceded,defensive,home,first,54.0
+2687,América,18469,2021/2022,Goals Conceded,goals-conceded,defensive,away,count,20.0
+2687,América,18469,2021/2022,Goals Conceded,goals-conceded,defensive,away,percentage,54.05
+2687,América,18469,2021/2022,Goals Conceded,goals-conceded,defensive,away,average,1.0
+2687,América,18469,2021/2022,Goals Conceded,goals-conceded,defensive,away,first,28.0
+2687,América,18469,2021/2022,Team Lost,team-lost,,all,count,9.0
+2687,América,18469,2021/2022,Team Lost,team-lost,,all,percentage,22.5
+2687,América,18469,2021/2022,Team Lost,team-lost,,home,count,4.0
+2687,América,18469,2021/2022,Team Lost,team-lost,,home,percentage,44.44
+2687,América,18469,2021/2022,Team Lost,team-lost,,away,count,5.0
+2687,América,18469,2021/2022,Team Lost,team-lost,,away,percentage,55.56
+2687,América,18469,2021/2022,Offsides,offsides,offensive,overall,count,28.0
+2687,América,18469,2021/2022,Offsides,offsides,offensive,overall,average,0.7
+2687,América,18469,2021/2022,Ball Possession %,ball-possession,overall,overall,count,2054.0
+2687,América,18469,2021/2022,Ball Possession %,ball-possession,overall,overall,average,51.35
+2687,América,18469,2021/2022,Redcards,redcards,overall,overall,count,5.0
+2687,América,18469,2021/2022,Redcards,redcards,overall,overall,average,0.13
+2687,América,18469,2021/2022,Tackles,tackles,defensive,overall,count,490.0
+2687,América,18469,2021/2022,Tackles,tackles,defensive,overall,average,12.25
+2687,América,18469,2021/2022,Team Wins,team-wins,,all,count,18.0
+2687,América,18469,2021/2022,Team Wins,team-wins,,all,percentage,45.0
+2687,América,18469,2021/2022,Team Wins,team-wins,,home,count,11.0
+2687,América,18469,2021/2022,Team Wins,team-wins,,home,percentage,61.11
+2687,América,18469,2021/2022,Team Wins,team-wins,,away,count,7.0
+2687,América,18469,2021/2022,Team Wins,team-wins,,away,percentage,38.89
+2687,América,18469,2021/2022,Yellowcards,yellowcards,overall,overall,count,72.0
+2687,América,18469,2021/2022,Yellowcards,yellowcards,overall,overall,average,1.8
+2687,América,18469,2021/2022,Yellowred Cards,yellowred-cards,overall,overall,count,4.0
+2687,América,18469,2021/2022,Yellowred Cards,yellowred-cards,overall,overall,average,0.1
+2687,América,18469,2021/2022,Goals,goals,offensive,all,count,51.0
+2687,América,18469,2021/2022,Goals,goals,offensive,all,average,1.28
+2687,América,18469,2021/2022,Goals,goals,offensive,all,first,42.0
+2687,América,18469,2021/2022,Goals,goals,offensive,home,count,30.0
+2687,América,18469,2021/2022,Goals,goals,offensive,home,percentage,58.82
+2687,América,18469,2021/2022,Goals,goals,offensive,home,average,1.5
+2687,América,18469,2021/2022,Goals,goals,offensive,home,first,41.0
+2687,América,18469,2021/2022,Goals,goals,offensive,away,count,21.0
+2687,América,18469,2021/2022,Goals,goals,offensive,away,percentage,41.18
+2687,América,18469,2021/2022,Goals,goals,offensive,away,average,1.05
+2687,América,18469,2021/2022,Goals,goals,offensive,away,first,43.0
+2687,América,18469,2021/2022,Cleansheets,cleansheets,,all,count,19.0
+2687,América,18469,2021/2022,Cleansheets,cleansheets,,all,percentage,47.5
+2687,América,18469,2021/2022,Cleansheets,cleansheets,,home,count,11.0
+2687,América,18469,2021/2022,Cleansheets,cleansheets,,home,percentage,57.89
+2687,América,18469,2021/2022,Cleansheets,cleansheets,,away,count,8.0
+2687,América,18469,2021/2022,Cleansheets,cleansheets,,away,percentage,42.11
+2687,América,18469,2021/2022,Shots,shots,offensive,overall,average,11.6
+2687,América,18469,2021/2022,Failed To Score,failed-toscore,offensive,all,count,9.0
+2687,América,18469,2021/2022,Failed To Score,failed-toscore,offensive,all,percentage,22.5
+2687,América,18469,2021/2022,Failed To Score,failed-toscore,offensive,home,count,4.0
+2687,América,18469,2021/2022,Failed To Score,failed-toscore,offensive,home,percentage,44.44
+2687,América,18469,2021/2022,Failed To Score,failed-toscore,offensive,home,overall_percentage,10.0
+2687,América,18469,2021/2022,Failed To Score,failed-toscore,offensive,away,count,5.0
+2687,América,18469,2021/2022,Failed To Score,failed-toscore,offensive,away,percentage,55.56
+2687,América,18469,2021/2022,Failed To Score,failed-toscore,offensive,away,overall_percentage,12.5
+2687,América,18469,2021/2022,Attacks,attacks,offensive,overall,count,3869.0
+2687,América,18469,2021/2022,Attacks,attacks,offensive,overall,average,96.73
+2687,América,18469,2021/2022,Both Teams To Score,btts,,all,count,19.0
+2687,América,18469,2021/2022,Both Teams To Score,btts,,all,percentage,47.5
+2687,América,18469,2021/2022,Both Teams To Score,btts,,home,count,8.0
+2687,América,18469,2021/2022,Both Teams To Score,btts,,home,percentage,42.11
+2687,América,18469,2021/2022,Both Teams To Score,btts,,away,count,11.0
+2687,América,18469,2021/2022,Both Teams To Score,btts,,away,percentage,57.89

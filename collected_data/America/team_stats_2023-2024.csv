@@ -1,0 +1,82 @@
+team_id,team_name,season_id,season_name,statistic_type,statistic_code,statistic_group,location,metric,value
+2687,América,21623,2023/2024,Cleansheets,cleansheets,,all,count,22.0
+2687,América,21623,2023/2024,Cleansheets,cleansheets,,all,percentage,47.83
+2687,América,21623,2023/2024,Cleansheets,cleansheets,,home,count,12.0
+2687,América,21623,2023/2024,Cleansheets,cleansheets,,home,percentage,54.55
+2687,América,21623,2023/2024,Cleansheets,cleansheets,,away,count,10.0
+2687,América,21623,2023/2024,Cleansheets,cleansheets,,away,percentage,45.45
+2687,América,21623,2023/2024,Fouls,fouls,defensive,overall,count,389.0
+2687,América,21623,2023/2024,Fouls,fouls,defensive,overall,average,8.46
+2687,América,21623,2023/2024,Tackles,tackles,defensive,overall,count,703.0
+2687,América,21623,2023/2024,Tackles,tackles,defensive,overall,average,15.28
+2687,América,21623,2023/2024,Offsides,offsides,offensive,overall,count,72.0
+2687,América,21623,2023/2024,Offsides,offsides,offensive,overall,average,1.57
+2687,América,21623,2023/2024,Ball Possession %,ball-possession,overall,overall,count,2496.0
+2687,América,21623,2023/2024,Ball Possession %,ball-possession,overall,overall,average,54.26
+2687,América,21623,2023/2024,Attacks,attacks,offensive,overall,count,4738.0
+2687,América,21623,2023/2024,Attacks,attacks,offensive,overall,average,103.0
+2687,América,21623,2023/2024,Yellowred Cards,yellowred-cards,overall,overall,count,1.0
+2687,América,21623,2023/2024,Yellowred Cards,yellowred-cards,overall,overall,average,0.02
+2687,América,21623,2023/2024,Team Wins,team-wins,,all,count,27.0
+2687,América,21623,2023/2024,Team Wins,team-wins,,all,percentage,58.7
+2687,América,21623,2023/2024,Team Wins,team-wins,,home,count,16.0
+2687,América,21623,2023/2024,Team Wins,team-wins,,home,percentage,59.26
+2687,América,21623,2023/2024,Team Wins,team-wins,,away,count,11.0
+2687,América,21623,2023/2024,Team Wins,team-wins,,away,percentage,40.74
+2687,América,21623,2023/2024,Team Draws,team-draws,,all,count,15.0
+2687,América,21623,2023/2024,Team Draws,team-draws,,all,percentage,32.61
+2687,América,21623,2023/2024,Team Draws,team-draws,,home,count,5.0
+2687,América,21623,2023/2024,Team Draws,team-draws,,home,percentage,33.33
+2687,América,21623,2023/2024,Team Draws,team-draws,,away,count,10.0
+2687,América,21623,2023/2024,Team Draws,team-draws,,away,percentage,66.67
+2687,América,21623,2023/2024,Yellowcards,yellowcards,overall,overall,count,78.0
+2687,América,21623,2023/2024,Yellowcards,yellowcards,overall,overall,average,1.7
+2687,América,21623,2023/2024,Shots,shots,offensive,overall,average,13.26
+2687,América,21623,2023/2024,Failed To Score,failed-toscore,offensive,all,count,5.0
+2687,América,21623,2023/2024,Failed To Score,failed-toscore,offensive,all,percentage,10.87
+2687,América,21623,2023/2024,Failed To Score,failed-toscore,offensive,home,count,1.0
+2687,América,21623,2023/2024,Failed To Score,failed-toscore,offensive,home,percentage,20.0
+2687,América,21623,2023/2024,Failed To Score,failed-toscore,offensive,home,overall_percentage,2.17
+2687,América,21623,2023/2024,Failed To Score,failed-toscore,offensive,away,count,4.0
+2687,América,21623,2023/2024,Failed To Score,failed-toscore,offensive,away,percentage,80.0
+2687,América,21623,2023/2024,Failed To Score,failed-toscore,offensive,away,overall_percentage,8.7
+2687,América,21623,2023/2024,Redcards,redcards,overall,overall,count,2.0
+2687,América,21623,2023/2024,Redcards,redcards,overall,overall,average,0.04
+2687,América,21623,2023/2024,Dangerous Attacks,dangerous-attacks,offensive,overall,count,2161.0
+2687,América,21623,2023/2024,Dangerous Attacks,dangerous-attacks,offensive,overall,average,46.98
+2687,América,21623,2023/2024,Goals,goals,offensive,all,count,85.0
+2687,América,21623,2023/2024,Goals,goals,offensive,all,average,1.85
+2687,América,21623,2023/2024,Goals,goals,offensive,all,first,41.0
+2687,América,21623,2023/2024,Goals,goals,offensive,home,count,48.0
+2687,América,21623,2023/2024,Goals,goals,offensive,home,percentage,56.47
+2687,América,21623,2023/2024,Goals,goals,offensive,home,average,2.09
+2687,América,21623,2023/2024,Goals,goals,offensive,home,first,46.0
+2687,América,21623,2023/2024,Goals,goals,offensive,away,count,37.0
+2687,América,21623,2023/2024,Goals,goals,offensive,away,percentage,43.53
+2687,América,21623,2023/2024,Goals,goals,offensive,away,average,1.61
+2687,América,21623,2023/2024,Goals,goals,offensive,away,first,36.0
+2687,América,21623,2023/2024,Goals Conceded,goals-conceded,defensive,all,count,34.0
+2687,América,21623,2023/2024,Goals Conceded,goals-conceded,defensive,all,average,0.74
+2687,América,21623,2023/2024,Goals Conceded,goals-conceded,defensive,all,first,34.0
+2687,América,21623,2023/2024,Goals Conceded,goals-conceded,defensive,home,count,17.0
+2687,América,21623,2023/2024,Goals Conceded,goals-conceded,defensive,home,percentage,50.0
+2687,América,21623,2023/2024,Goals Conceded,goals-conceded,defensive,home,average,0.74
+2687,América,21623,2023/2024,Goals Conceded,goals-conceded,defensive,home,first,38.0
+2687,América,21623,2023/2024,Goals Conceded,goals-conceded,defensive,away,count,17.0
+2687,América,21623,2023/2024,Goals Conceded,goals-conceded,defensive,away,percentage,50.0
+2687,América,21623,2023/2024,Goals Conceded,goals-conceded,defensive,away,average,0.74
+2687,América,21623,2023/2024,Goals Conceded,goals-conceded,defensive,away,first,30.0
+2687,América,21623,2023/2024,Team Lost,team-lost,,all,count,4.0
+2687,América,21623,2023/2024,Team Lost,team-lost,,all,percentage,8.7
+2687,América,21623,2023/2024,Team Lost,team-lost,,home,count,2.0
+2687,América,21623,2023/2024,Team Lost,team-lost,,home,percentage,50.0
+2687,América,21623,2023/2024,Team Lost,team-lost,,away,count,2.0
+2687,América,21623,2023/2024,Team Lost,team-lost,,away,percentage,50.0
+2687,América,21623,2023/2024,Both Teams To Score,btts,,all,count,23.0
+2687,América,21623,2023/2024,Both Teams To Score,btts,,all,percentage,50.0
+2687,América,21623,2023/2024,Both Teams To Score,btts,,home,count,10.0
+2687,América,21623,2023/2024,Both Teams To Score,btts,,home,percentage,43.48
+2687,América,21623,2023/2024,Both Teams To Score,btts,,away,count,13.0
+2687,América,21623,2023/2024,Both Teams To Score,btts,,away,percentage,56.52
+2687,América,21623,2023/2024,Corners,corners,offensive,overall,count,239.0
+2687,América,21623,2023/2024,Corners,corners,offensive,overall,average,5.2

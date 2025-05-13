@@ -1,0 +1,45 @@
+﻿team_id,team_name,season_name,statistic_name,statistic_code,metric,value
+3951,Necaxa,2021-2022,Cleansheets,cleansheets,cleansheets_all_count,10
+3951,Necaxa,2021-2022,Cleansheets,cleansheets,cleansheets_all_percentage,28.57
+3951,Necaxa,2021-2022,Cleansheets,cleansheets,cleansheets_home_count,5
+3951,Necaxa,2021-2022,Cleansheets,cleansheets,cleansheets_home_percentage,50
+3951,Necaxa,2021-2022,Cleansheets,cleansheets,cleansheets_away_count,5
+3951,Necaxa,2021-2022,Cleansheets,cleansheets,cleansheets_away_percentage,50
+3951,Necaxa,2021-2022,Team Draws,team-draws,team-draws_all_count,5
+3951,Necaxa,2021-2022,Team Draws,team-draws,team-draws_all_percentage,14.29
+3951,Necaxa,2021-2022,Team Draws,team-draws,team-draws_home_count,0
+3951,Necaxa,2021-2022,Team Draws,team-draws,team-draws_home_percentage,0
+3951,Necaxa,2021-2022,Team Draws,team-draws,team-draws_away_count,5
+3951,Necaxa,2021-2022,Team Draws,team-draws,team-draws_away_percentage,100
+3951,Necaxa,2021-2022,Ball Possession %,ball-possession,ball-possession_count,1773
+3951,Necaxa,2021-2022,Ball Possession %,ball-possession,ball-possession_average,50.66
+3951,Necaxa,2021-2022,Redcards,redcards,redcards_count,3
+3951,Necaxa,2021-2022,Redcards,redcards,redcards_average,0.09
+3951,Necaxa,2021-2022,Redcards,redcards,redcards_player_id,253900
+3951,Necaxa,2021-2022,Redcards,redcards,redcards_player_name,Fernando Arce
+3951,Necaxa,2021-2022,Redcards,redcards,redcards_coach,0
+3951,Necaxa,2021-2022,Redcards,redcards,redcards_coach_average,0
+3951,Necaxa,2021-2022,Team Wins,team-wins,team-wins_all_count,13
+3951,Necaxa,2021-2022,Team Wins,team-wins,team-wins_all_percentage,37.14
+3951,Necaxa,2021-2022,Team Wins,team-wins,team-wins_home_count,7
+3951,Necaxa,2021-2022,Team Wins,team-wins,team-wins_home_percentage,53.85
+3951,Necaxa,2021-2022,Team Wins,team-wins,team-wins_away_count,6
+3951,Necaxa,2021-2022,Team Wins,team-wins,team-wins_away_percentage,46.15
+3951,Necaxa,2021-2022,Yellowcards,yellowcards,yellowcards_count,74
+3951,Necaxa,2021-2022,Yellowcards,yellowcards,yellowcards_average,2.11
+3951,Necaxa,2021-2022,Yellowcards,yellowcards,yellowcards_player_id,260497
+3951,Necaxa,2021-2022,Yellowcards,yellowcards,yellowcards_player_name,Fabricio Formiliano
+3951,Necaxa,2021-2022,Yellowcards,yellowcards,yellowcards_coach,0
+3951,Necaxa,2021-2022,Yellowcards,yellowcards,yellowcards_coach_average,0
+3951,Necaxa,2021-2022,Team Lost,team-lost,team-lost_all_count,17
+3951,Necaxa,2021-2022,Team Lost,team-lost,team-lost_all_percentage,48.57
+3951,Necaxa,2021-2022,Team Lost,team-lost,team-lost_home_count,10
+3951,Necaxa,2021-2022,Team Lost,team-lost,team-lost_home_percentage,58.82
+3951,Necaxa,2021-2022,Team Lost,team-lost,team-lost_away_count,7
+3951,Necaxa,2021-2022,Team Lost,team-lost,team-lost_away_percentage,41.18
+3951,Necaxa,2021-2022,Both Teams To Score,btts,btts_all_count,14
+3951,Necaxa,2021-2022,Both Teams To Score,btts,btts_all_percentage,40
+3951,Necaxa,2021-2022,Both Teams To Score,btts,btts_home_count,4
+3951,Necaxa,2021-2022,Both Teams To Score,btts,btts_home_percentage,28.57
+3951,Necaxa,2021-2022,Both Teams To Score,btts,btts_away_count,10
+3951,Necaxa,2021-2022,Both Teams To Score,btts,btts_away_percentage,71.43

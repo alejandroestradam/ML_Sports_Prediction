@@ -1,0 +1,74 @@
+team_id,team_name,season_id,season_name,statistic_type,statistic_code,statistic_group,location,metric,value
+2662,Monterrey,17191,2020/2021,Yellowcards,yellowcards,overall,overall,count,79.0
+2662,Monterrey,17191,2020/2021,Yellowcards,yellowcards,overall,overall,average,2.14
+2662,Monterrey,17191,2020/2021,Cleansheets,cleansheets,,all,count,7.0
+2662,Monterrey,17191,2020/2021,Cleansheets,cleansheets,,all,percentage,18.92
+2662,Monterrey,17191,2020/2021,Cleansheets,cleansheets,,home,count,5.0
+2662,Monterrey,17191,2020/2021,Cleansheets,cleansheets,,home,percentage,71.43
+2662,Monterrey,17191,2020/2021,Cleansheets,cleansheets,,away,count,2.0
+2662,Monterrey,17191,2020/2021,Cleansheets,cleansheets,,away,percentage,28.57
+2662,Monterrey,17191,2020/2021,Fouls,fouls,defensive,overall,count,541.0
+2662,Monterrey,17191,2020/2021,Fouls,fouls,defensive,overall,average,14.62
+2662,Monterrey,17191,2020/2021,Goals Conceded,goals-conceded,defensive,all,count,39.0
+2662,Monterrey,17191,2020/2021,Goals Conceded,goals-conceded,defensive,all,average,1.05
+2662,Monterrey,17191,2020/2021,Goals Conceded,goals-conceded,defensive,all,first,54.0
+2662,Monterrey,17191,2020/2021,Goals Conceded,goals-conceded,defensive,home,count,18.0
+2662,Monterrey,17191,2020/2021,Goals Conceded,goals-conceded,defensive,home,percentage,46.15
+2662,Monterrey,17191,2020/2021,Goals Conceded,goals-conceded,defensive,home,average,0.95
+2662,Monterrey,17191,2020/2021,Goals Conceded,goals-conceded,defensive,home,first,51.0
+2662,Monterrey,17191,2020/2021,Goals Conceded,goals-conceded,defensive,away,count,21.0
+2662,Monterrey,17191,2020/2021,Goals Conceded,goals-conceded,defensive,away,percentage,53.85
+2662,Monterrey,17191,2020/2021,Goals Conceded,goals-conceded,defensive,away,average,1.17
+2662,Monterrey,17191,2020/2021,Goals Conceded,goals-conceded,defensive,away,first,57.0
+2662,Monterrey,17191,2020/2021,Dangerous Attacks,dangerous-attacks,offensive,overall,count,1640.0
+2662,Monterrey,17191,2020/2021,Dangerous Attacks,dangerous-attacks,offensive,overall,average,44.32
+2662,Monterrey,17191,2020/2021,Team Lost,team-lost,,all,count,10.0
+2662,Monterrey,17191,2020/2021,Team Lost,team-lost,,all,percentage,27.03
+2662,Monterrey,17191,2020/2021,Team Lost,team-lost,,home,count,3.0
+2662,Monterrey,17191,2020/2021,Team Lost,team-lost,,home,percentage,30.0
+2662,Monterrey,17191,2020/2021,Team Lost,team-lost,,away,count,7.0
+2662,Monterrey,17191,2020/2021,Team Lost,team-lost,,away,percentage,70.0
+2662,Monterrey,17191,2020/2021,Redcards,redcards,overall,overall,count,8.0
+2662,Monterrey,17191,2020/2021,Redcards,redcards,overall,overall,average,0.22
+2662,Monterrey,17191,2020/2021,Team Wins,team-wins,,all,count,16.0
+2662,Monterrey,17191,2020/2021,Team Wins,team-wins,,all,percentage,43.24
+2662,Monterrey,17191,2020/2021,Team Wins,team-wins,,home,count,9.0
+2662,Monterrey,17191,2020/2021,Team Wins,team-wins,,home,percentage,56.25
+2662,Monterrey,17191,2020/2021,Team Wins,team-wins,,away,count,7.0
+2662,Monterrey,17191,2020/2021,Team Wins,team-wins,,away,percentage,43.75
+2662,Monterrey,17191,2020/2021,Ball Possession %,ball-possession,overall,overall,count,1768.0
+2662,Monterrey,17191,2020/2021,Ball Possession %,ball-possession,overall,overall,average,47.78
+2662,Monterrey,17191,2020/2021,Team Draws,team-draws,,all,count,11.0
+2662,Monterrey,17191,2020/2021,Team Draws,team-draws,,all,percentage,29.73
+2662,Monterrey,17191,2020/2021,Team Draws,team-draws,,home,count,7.0
+2662,Monterrey,17191,2020/2021,Team Draws,team-draws,,home,percentage,63.64
+2662,Monterrey,17191,2020/2021,Team Draws,team-draws,,away,count,4.0
+2662,Monterrey,17191,2020/2021,Team Draws,team-draws,,away,percentage,36.36
+2662,Monterrey,17191,2020/2021,Goals,goals,offensive,all,count,52.0
+2662,Monterrey,17191,2020/2021,Goals,goals,offensive,all,average,1.41
+2662,Monterrey,17191,2020/2021,Goals,goals,offensive,all,first,35.0
+2662,Monterrey,17191,2020/2021,Goals,goals,offensive,home,count,26.0
+2662,Monterrey,17191,2020/2021,Goals,goals,offensive,home,percentage,50.0
+2662,Monterrey,17191,2020/2021,Goals,goals,offensive,home,average,1.37
+2662,Monterrey,17191,2020/2021,Goals,goals,offensive,home,first,41.0
+2662,Monterrey,17191,2020/2021,Goals,goals,offensive,away,count,26.0
+2662,Monterrey,17191,2020/2021,Goals,goals,offensive,away,percentage,50.0
+2662,Monterrey,17191,2020/2021,Goals,goals,offensive,away,average,1.44
+2662,Monterrey,17191,2020/2021,Goals,goals,offensive,away,first,27.0
+2662,Monterrey,17191,2020/2021,Attacks,attacks,offensive,overall,count,3527.0
+2662,Monterrey,17191,2020/2021,Attacks,attacks,offensive,overall,average,95.32
+2662,Monterrey,17191,2020/2021,Yellowred Cards,yellowred-cards,overall,overall,count,4.0
+2662,Monterrey,17191,2020/2021,Yellowred Cards,yellowred-cards,overall,overall,average,0.11
+2662,Monterrey,17191,2020/2021,Offsides,offsides,offensive,overall,count,42.0
+2662,Monterrey,17191,2020/2021,Offsides,offsides,offensive,overall,average,1.14
+2662,Monterrey,17191,2020/2021,Corners,corners,offensive,overall,count,203.0
+2662,Monterrey,17191,2020/2021,Corners,corners,offensive,overall,average,5.49
+2662,Monterrey,17191,2020/2021,Failed To Score,failed-toscore,offensive,all,count,6.0
+2662,Monterrey,17191,2020/2021,Failed To Score,failed-toscore,offensive,all,percentage,16.22
+2662,Monterrey,17191,2020/2021,Failed To Score,failed-toscore,offensive,home,count,2.0
+2662,Monterrey,17191,2020/2021,Failed To Score,failed-toscore,offensive,home,percentage,33.33
+2662,Monterrey,17191,2020/2021,Failed To Score,failed-toscore,offensive,home,overall_percentage,5.41
+2662,Monterrey,17191,2020/2021,Failed To Score,failed-toscore,offensive,away,count,4.0
+2662,Monterrey,17191,2020/2021,Failed To Score,failed-toscore,offensive,away,percentage,66.67
+2662,Monterrey,17191,2020/2021,Failed To Score,failed-toscore,offensive,away,overall_percentage,10.81
+2662,Monterrey,17191,2020/2021,Shots,shots,offensive,overall,average,13.27

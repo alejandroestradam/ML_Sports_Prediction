@@ -1,0 +1,82 @@
+team_id,team_name,season_id,season_name,statistic_type,statistic_code,statistic_group,location,metric,value
+10036,Pachuca,19684,2022/2023,Goals,goals,offensive,all,count,80.0
+10036,Pachuca,19684,2022/2023,Goals,goals,offensive,all,average,1.95
+10036,Pachuca,19684,2022/2023,Goals,goals,offensive,all,first,36.0
+10036,Pachuca,19684,2022/2023,Goals,goals,offensive,home,count,47.0
+10036,Pachuca,19684,2022/2023,Goals,goals,offensive,home,percentage,58.75
+10036,Pachuca,19684,2022/2023,Goals,goals,offensive,home,average,2.24
+10036,Pachuca,19684,2022/2023,Goals,goals,offensive,home,first,39.0
+10036,Pachuca,19684,2022/2023,Goals,goals,offensive,away,count,33.0
+10036,Pachuca,19684,2022/2023,Goals,goals,offensive,away,percentage,41.25
+10036,Pachuca,19684,2022/2023,Goals,goals,offensive,away,average,1.65
+10036,Pachuca,19684,2022/2023,Goals,goals,offensive,away,first,31.0
+10036,Pachuca,19684,2022/2023,Team Lost,team-lost,,all,count,10.0
+10036,Pachuca,19684,2022/2023,Team Lost,team-lost,,all,percentage,24.39
+10036,Pachuca,19684,2022/2023,Team Lost,team-lost,,home,count,4.0
+10036,Pachuca,19684,2022/2023,Team Lost,team-lost,,home,percentage,40.0
+10036,Pachuca,19684,2022/2023,Team Lost,team-lost,,away,count,6.0
+10036,Pachuca,19684,2022/2023,Team Lost,team-lost,,away,percentage,60.0
+10036,Pachuca,19684,2022/2023,Team Wins,team-wins,,all,count,24.0
+10036,Pachuca,19684,2022/2023,Team Wins,team-wins,,all,percentage,58.54
+10036,Pachuca,19684,2022/2023,Team Wins,team-wins,,home,count,13.0
+10036,Pachuca,19684,2022/2023,Team Wins,team-wins,,home,percentage,54.17
+10036,Pachuca,19684,2022/2023,Team Wins,team-wins,,away,count,11.0
+10036,Pachuca,19684,2022/2023,Team Wins,team-wins,,away,percentage,45.83
+10036,Pachuca,19684,2022/2023,Team Draws,team-draws,,all,count,7.0
+10036,Pachuca,19684,2022/2023,Team Draws,team-draws,,all,percentage,17.07
+10036,Pachuca,19684,2022/2023,Team Draws,team-draws,,home,count,4.0
+10036,Pachuca,19684,2022/2023,Team Draws,team-draws,,home,percentage,57.14
+10036,Pachuca,19684,2022/2023,Team Draws,team-draws,,away,count,3.0
+10036,Pachuca,19684,2022/2023,Team Draws,team-draws,,away,percentage,42.86
+10036,Pachuca,19684,2022/2023,Shots,shots,offensive,overall,average,16.39
+10036,Pachuca,19684,2022/2023,Offsides,offsides,offensive,overall,count,74.0
+10036,Pachuca,19684,2022/2023,Offsides,offsides,offensive,overall,average,1.8
+10036,Pachuca,19684,2022/2023,Yellowcards,yellowcards,overall,overall,count,85.0
+10036,Pachuca,19684,2022/2023,Yellowcards,yellowcards,overall,overall,average,2.07
+10036,Pachuca,19684,2022/2023,Redcards,redcards,overall,overall,count,4.0
+10036,Pachuca,19684,2022/2023,Redcards,redcards,overall,overall,average,0.1
+10036,Pachuca,19684,2022/2023,Attacks,attacks,offensive,overall,count,4060.0
+10036,Pachuca,19684,2022/2023,Attacks,attacks,offensive,overall,average,99.02
+10036,Pachuca,19684,2022/2023,Corners,corners,offensive,overall,count,237.0
+10036,Pachuca,19684,2022/2023,Corners,corners,offensive,overall,average,5.78
+10036,Pachuca,19684,2022/2023,Goals Conceded,goals-conceded,defensive,all,count,49.0
+10036,Pachuca,19684,2022/2023,Goals Conceded,goals-conceded,defensive,all,average,1.2
+10036,Pachuca,19684,2022/2023,Goals Conceded,goals-conceded,defensive,all,first,39.0
+10036,Pachuca,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,count,25.0
+10036,Pachuca,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,percentage,51.02
+10036,Pachuca,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,average,1.19
+10036,Pachuca,19684,2022/2023,Goals Conceded,goals-conceded,defensive,home,first,37.0
+10036,Pachuca,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,count,24.0
+10036,Pachuca,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,percentage,48.98
+10036,Pachuca,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,average,1.2
+10036,Pachuca,19684,2022/2023,Goals Conceded,goals-conceded,defensive,away,first,41.0
+10036,Pachuca,19684,2022/2023,Cleansheets,cleansheets,,all,count,12.0
+10036,Pachuca,19684,2022/2023,Cleansheets,cleansheets,,all,percentage,29.27
+10036,Pachuca,19684,2022/2023,Cleansheets,cleansheets,,home,count,5.0
+10036,Pachuca,19684,2022/2023,Cleansheets,cleansheets,,home,percentage,41.67
+10036,Pachuca,19684,2022/2023,Cleansheets,cleansheets,,away,count,7.0
+10036,Pachuca,19684,2022/2023,Cleansheets,cleansheets,,away,percentage,58.33
+10036,Pachuca,19684,2022/2023,Ball Possession %,ball-possession,overall,overall,count,2106.0
+10036,Pachuca,19684,2022/2023,Ball Possession %,ball-possession,overall,overall,average,51.37
+10036,Pachuca,19684,2022/2023,Dangerous Attacks,dangerous-attacks,offensive,overall,count,1509.0
+10036,Pachuca,19684,2022/2023,Dangerous Attacks,dangerous-attacks,offensive,overall,average,36.8
+10036,Pachuca,19684,2022/2023,Fouls,fouls,defensive,overall,count,449.0
+10036,Pachuca,19684,2022/2023,Fouls,fouls,defensive,overall,average,10.95
+10036,Pachuca,19684,2022/2023,Yellowred Cards,yellowred-cards,overall,overall,count,1.0
+10036,Pachuca,19684,2022/2023,Yellowred Cards,yellowred-cards,overall,overall,average,0.02
+10036,Pachuca,19684,2022/2023,Failed To Score,failed-toscore,offensive,all,count,8.0
+10036,Pachuca,19684,2022/2023,Failed To Score,failed-toscore,offensive,all,percentage,19.51
+10036,Pachuca,19684,2022/2023,Failed To Score,failed-toscore,offensive,home,count,3.0
+10036,Pachuca,19684,2022/2023,Failed To Score,failed-toscore,offensive,home,percentage,37.5
+10036,Pachuca,19684,2022/2023,Failed To Score,failed-toscore,offensive,home,overall_percentage,7.32
+10036,Pachuca,19684,2022/2023,Failed To Score,failed-toscore,offensive,away,count,5.0
+10036,Pachuca,19684,2022/2023,Failed To Score,failed-toscore,offensive,away,percentage,62.5
+10036,Pachuca,19684,2022/2023,Failed To Score,failed-toscore,offensive,away,overall_percentage,12.2
+10036,Pachuca,19684,2022/2023,Tackles,tackles,defensive,overall,count,648.0
+10036,Pachuca,19684,2022/2023,Tackles,tackles,defensive,overall,average,15.8
+10036,Pachuca,19684,2022/2023,Both Teams To Score,btts,,all,count,24.0
+10036,Pachuca,19684,2022/2023,Both Teams To Score,btts,,all,percentage,58.54
+10036,Pachuca,19684,2022/2023,Both Teams To Score,btts,,home,count,14.0
+10036,Pachuca,19684,2022/2023,Both Teams To Score,btts,,home,percentage,58.33
+10036,Pachuca,19684,2022/2023,Both Teams To Score,btts,,away,count,10.0
+10036,Pachuca,19684,2022/2023,Both Teams To Score,btts,,away,percentage,41.67

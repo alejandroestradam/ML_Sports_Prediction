@@ -1,0 +1,100 @@
+﻿team_id,team_name,season_name,statistic_name,statistic_code,metric,value,time_period,location
+3951,Necaxa,2023-2024,Corners,corners,corners_count,136,,
+3951,Necaxa,2023-2024,Corners,corners,corners_average,3.78,,
+3951,Necaxa,2023-2024,Offsides,offsides,offsides_count,64,,
+3951,Necaxa,2023-2024,Offsides,offsides,offsides_average,1.78,,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,count,3,0-15,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,percentage,6,0-15,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,count,6,15-30,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,percentage,12,15-30,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,count,10,30-45,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,percentage,20,30-45,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,count,10,45-60,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,percentage,20,45-60,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,count,7,60-75,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,percentage,14,60-75,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,count,14,75-90,
+3951,Necaxa,2023-2024,Scoring Minutes,scoring-minutes,percentage,28,75-90,
+3951,Necaxa,2023-2024,Shots,shots,shots_total,395,,
+3951,Necaxa,2023-2024,Shots,shots,shots_on_target,147,,
+3951,Necaxa,2023-2024,Shots,shots,shots_off_target,195,,
+3951,Necaxa,2023-2024,Shots,shots,shots_inside_box,257,,
+3951,Necaxa,2023-2024,Shots,shots,shots_outside_box,138,,
+3951,Necaxa,2023-2024,Shots,shots,shots_blocked,63,,
+3951,Necaxa,2023-2024,Shots,shots,shots_average,10.97,,
+3951,Necaxa,2023-2024,Dangerous Attacks,dangerous-attacks,dangerous-attacks_count,1384,,
+3951,Necaxa,2023-2024,Dangerous Attacks,dangerous-attacks,dangerous-attacks_average,38.44,,
+3951,Necaxa,2023-2024,Penalties,penalties,penalties_scored,3,,
+3951,Necaxa,2023-2024,Penalties,penalties,penalties_missed,1,,
+3951,Necaxa,2023-2024,Penalties,penalties,penalties_conversion_rate,75,,
+3951,Necaxa,2023-2024,Goals,goals,count,51,,all
+3951,Necaxa,2023-2024,Goals,goals,average,1.42,,all
+3951,Necaxa,2023-2024,Goals,goals,first,46,,all
+3951,Necaxa,2023-2024,Goals,goals,count,26,,home
+3951,Necaxa,2023-2024,Goals,goals,percentage,50.98,,home
+3951,Necaxa,2023-2024,Goals,goals,average,1.44,,home
+3951,Necaxa,2023-2024,Goals,goals,first,50,,home
+3951,Necaxa,2023-2024,Goals,goals,count,25,,away
+3951,Necaxa,2023-2024,Goals,goals,percentage,49.02,,away
+3951,Necaxa,2023-2024,Goals,goals,average,1.39,,away
+3951,Necaxa,2023-2024,Goals,goals,first,42,,away
+3951,Necaxa,2023-2024,Attacks,attacks,attacks_count,2919,,
+3951,Necaxa,2023-2024,Attacks,attacks,attacks_average,81.08,,
+3951,Necaxa,2023-2024,Goals Conceded,goals-conceded,count,59,,all
+3951,Necaxa,2023-2024,Goals Conceded,goals-conceded,average,1.64,,all
+3951,Necaxa,2023-2024,Goals Conceded,goals-conceded,first,40,,all
+3951,Necaxa,2023-2024,Goals Conceded,goals-conceded,count,25,,home
+3951,Necaxa,2023-2024,Goals Conceded,goals-conceded,percentage,42.37,,home
+3951,Necaxa,2023-2024,Goals Conceded,goals-conceded,average,1.39,,home
+3951,Necaxa,2023-2024,Goals Conceded,goals-conceded,first,42,,home
+3951,Necaxa,2023-2024,Goals Conceded,goals-conceded,count,34,,away
+3951,Necaxa,2023-2024,Goals Conceded,goals-conceded,percentage,57.63,,away
+3951,Necaxa,2023-2024,Goals Conceded,goals-conceded,average,1.89,,away
+3951,Necaxa,2023-2024,Goals Conceded,goals-conceded,first,39,,away
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,count,7,0-15,
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,11.86,0-15,
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,count,5,15-30,
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,8.47,15-30,
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,count,8,30-45,
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,13.56,30-45,
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,count,12,45-60,
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,20.34,45-60,
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,count,12,60-75,
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,20.34,60-75,
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,count,15,75-90,
+3951,Necaxa,2023-2024,Conceded Scoring Minutes,conceded-scoring-minutes,percentage,25.42,75-90,
+3951,Necaxa,2023-2024,Penalty Conversion Rate,penalty-conversion-rate,penalty-conversion-rate_conversion_rate_pct,33.33,,
+3951,Necaxa,2023-2024,Shot On Target Percentage,shot-on-target-percentage,shot-on-target-percentage_pct_shots_on_target,36.60,,
+3951,Necaxa,2023-2024,Shot Conversion Rate,shot-conversion-rate,shot-conversion-rate_conversion_rate_pct,18.72,,
+3951,Necaxa,2023-2024,Failed To Score,failed-toscore,count,8,,all
+3951,Necaxa,2023-2024,Failed To Score,failed-toscore,percentage,22.22,,all
+3951,Necaxa,2023-2024,Failed To Score,failed-toscore,count,3,,home
+3951,Necaxa,2023-2024,Failed To Score,failed-toscore,percentage,37.5,,home
+3951,Necaxa,2023-2024,Failed To Score,failed-toscore,overall_percentage,8.33,,home
+3951,Necaxa,2023-2024,Failed To Score,failed-toscore,count,5,,away
+3951,Necaxa,2023-2024,Failed To Score,failed-toscore,percentage,62.5,,away
+3951,Necaxa,2023-2024,Failed To Score,failed-toscore,overall_percentage,13.89,,away
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_0_5_matches_count,33,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_0_5_matches_percentage,91.67,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_0_5_team_count,28,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_0_5_team_percentage,77.78,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_1_5_matches_count,30,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_1_5_matches_percentage,83.33,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_1_5_team_count,14,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_1_5_team_percentage,38.89,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_2_5_matches_count,21,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_2_5_matches_percentage,58.33,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_2_5_team_count,5,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_2_5_team_percentage,13.89,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_3_5_matches_count,12,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_3_5_matches_percentage,33.33,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_3_5_team_count,2,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_3_5_team_percentage,5.56,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_4_5_matches_count,6,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_4_5_matches_percentage,16.67,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_4_5_team_count,1,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_4_5_team_percentage,2.78,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_5_5_matches_count,4,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_5_5_matches_percentage,11.11,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_5_5_team_count,0,,
+3951,Necaxa,2023-2024,Number Of Goals,number-of-goals,number-of-goals_over_5_5_team_percentage,0,,

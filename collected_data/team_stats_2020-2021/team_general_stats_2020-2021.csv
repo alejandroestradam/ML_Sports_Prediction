@@ -1,0 +1,39 @@
+﻿team_id,team_name,season_name,statistic_name,statistic_code,metric,value
+3951,Necaxa,2020-2021,Cleansheets,cleansheets,cleansheets_all_count,8
+3951,Necaxa,2020-2021,Cleansheets,cleansheets,cleansheets_all_percentage,22.86
+3951,Necaxa,2020-2021,Cleansheets,cleansheets,cleansheets_home_count,5
+3951,Necaxa,2020-2021,Cleansheets,cleansheets,cleansheets_home_percentage,62.5
+3951,Necaxa,2020-2021,Cleansheets,cleansheets,cleansheets_away_count,3
+3951,Necaxa,2020-2021,Cleansheets,cleansheets,cleansheets_away_percentage,37.5
+3951,Necaxa,2020-2021,Team Draws,team-draws,team-draws_all_count,8
+3951,Necaxa,2020-2021,Team Draws,team-draws,team-draws_all_percentage,22.86
+3951,Necaxa,2020-2021,Team Draws,team-draws,team-draws_home_count,4
+3951,Necaxa,2020-2021,Team Draws,team-draws,team-draws_home_percentage,50
+3951,Necaxa,2020-2021,Team Draws,team-draws,team-draws_away_count,4
+3951,Necaxa,2020-2021,Team Draws,team-draws,team-draws_away_percentage,50
+3951,Necaxa,2020-2021,Redcards,redcards,redcards_count,5
+3951,Necaxa,2020-2021,Redcards,redcards,redcards_average,0.14
+3951,Necaxa,2020-2021,Redcards,redcards,redcards_player_id,233949
+3951,Necaxa,2020-2021,Redcards,redcards,redcards_player_name,Claudio Baeza
+3951,Necaxa,2020-2021,Team Wins,team-wins,team-wins_all_count,9
+3951,Necaxa,2020-2021,Team Wins,team-wins,team-wins_all_percentage,25.71
+3951,Necaxa,2020-2021,Team Wins,team-wins,team-wins_home_count,6
+3951,Necaxa,2020-2021,Team Wins,team-wins,team-wins_home_percentage,66.67
+3951,Necaxa,2020-2021,Team Wins,team-wins,team-wins_away_count,3
+3951,Necaxa,2020-2021,Team Wins,team-wins,team-wins_away_percentage,33.33
+3951,Necaxa,2020-2021,Ball Possession %,ball-possession,ball-possession_count,1609
+3951,Necaxa,2020-2021,Ball Possession %,ball-possession,ball-possession_average,45.97
+3951,Necaxa,2020-2021,Yellowcards,yellowcards,yellowcards_count,82
+3951,Necaxa,2020-2021,Yellowcards,yellowcards,yellowcards_average,2.34
+3951,Necaxa,2020-2021,Yellowcards,yellowcards,yellowcards_player_id,37307785
+3951,Necaxa,2020-2021,Yellowcards,yellowcards,yellowcards_player_name,Alejandro Andrade Rivera
+3951,Necaxa,2020-2021,Yellowred Cards,yellowred-cards,yellowred-cards_count,1
+3951,Necaxa,2020-2021,Yellowred Cards,yellowred-cards,yellowred-cards_average,0.03
+3951,Necaxa,2020-2021,Yellowred Cards,yellowred-cards,yellowred-cards_player_id,253900
+3951,Necaxa,2020-2021,Yellowred Cards,yellowred-cards,yellowred-cards_player_name,Fernando Arce
+3951,Necaxa,2020-2021,Team Lost,team-lost,team-lost_all_count,18
+3951,Necaxa,2020-2021,Team Lost,team-lost,team-lost_all_percentage,51.43
+3951,Necaxa,2020-2021,Team Lost,team-lost,team-lost_home_count,7
+3951,Necaxa,2020-2021,Team Lost,team-lost,team-lost_home_percentage,38.89
+3951,Necaxa,2020-2021,Team Lost,team-lost,team-lost_away_count,11
+3951,Necaxa,2020-2021,Team Lost,team-lost,team-lost_away_percentage,61.11

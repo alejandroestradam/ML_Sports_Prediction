@@ -1,0 +1,5 @@
+﻿team_id,team_name,season_name,statistic_name,statistic_code,metric,value
+3951,Necaxa,2021-2022,Fouls,fouls,fouls_count,512.0
+3951,Necaxa,2021-2022,Fouls,fouls,fouls_average,14.63
+3951,Necaxa,2021-2022,Tackles,tackles,tackles_count,374.0
+3951,Necaxa,2021-2022,Tackles,tackles,tackles_average,10.69

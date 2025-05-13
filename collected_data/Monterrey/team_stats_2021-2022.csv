@@ -1,0 +1,82 @@
+team_id,team_name,season_id,season_name,statistic_type,statistic_code,statistic_group,location,metric,value
+2662,Monterrey,18469,2021/2022,Cleansheets,cleansheets,,all,count,13.0
+2662,Monterrey,18469,2021/2022,Cleansheets,cleansheets,,all,percentage,34.21
+2662,Monterrey,18469,2021/2022,Cleansheets,cleansheets,,home,count,10.0
+2662,Monterrey,18469,2021/2022,Cleansheets,cleansheets,,home,percentage,76.92
+2662,Monterrey,18469,2021/2022,Cleansheets,cleansheets,,away,count,3.0
+2662,Monterrey,18469,2021/2022,Cleansheets,cleansheets,,away,percentage,23.08
+2662,Monterrey,18469,2021/2022,Corners,corners,offensive,overall,count,201.0
+2662,Monterrey,18469,2021/2022,Corners,corners,offensive,overall,average,5.29
+2662,Monterrey,18469,2021/2022,Dangerous Attacks,dangerous-attacks,offensive,overall,count,1455.0
+2662,Monterrey,18469,2021/2022,Dangerous Attacks,dangerous-attacks,offensive,overall,average,38.29
+2662,Monterrey,18469,2021/2022,Team Draws,team-draws,,all,count,15.0
+2662,Monterrey,18469,2021/2022,Team Draws,team-draws,,all,percentage,39.47
+2662,Monterrey,18469,2021/2022,Team Draws,team-draws,,home,count,7.0
+2662,Monterrey,18469,2021/2022,Team Draws,team-draws,,home,percentage,46.67
+2662,Monterrey,18469,2021/2022,Team Draws,team-draws,,away,count,8.0
+2662,Monterrey,18469,2021/2022,Team Draws,team-draws,,away,percentage,53.33
+2662,Monterrey,18469,2021/2022,Fouls,fouls,defensive,overall,count,450.0
+2662,Monterrey,18469,2021/2022,Fouls,fouls,defensive,overall,average,11.84
+2662,Monterrey,18469,2021/2022,Goals Conceded,goals-conceded,defensive,all,count,37.0
+2662,Monterrey,18469,2021/2022,Goals Conceded,goals-conceded,defensive,all,average,0.97
+2662,Monterrey,18469,2021/2022,Goals Conceded,goals-conceded,defensive,all,first,46.0
+2662,Monterrey,18469,2021/2022,Goals Conceded,goals-conceded,defensive,home,count,12.0
+2662,Monterrey,18469,2021/2022,Goals Conceded,goals-conceded,defensive,home,percentage,32.43
+2662,Monterrey,18469,2021/2022,Goals Conceded,goals-conceded,defensive,home,average,0.63
+2662,Monterrey,18469,2021/2022,Goals Conceded,goals-conceded,defensive,home,first,50.0
+2662,Monterrey,18469,2021/2022,Goals Conceded,goals-conceded,defensive,away,count,25.0
+2662,Monterrey,18469,2021/2022,Goals Conceded,goals-conceded,defensive,away,percentage,67.57
+2662,Monterrey,18469,2021/2022,Goals Conceded,goals-conceded,defensive,away,average,1.32
+2662,Monterrey,18469,2021/2022,Goals Conceded,goals-conceded,defensive,away,first,44.0
+2662,Monterrey,18469,2021/2022,Offsides,offsides,offensive,overall,count,64.0
+2662,Monterrey,18469,2021/2022,Offsides,offsides,offensive,overall,average,1.68
+2662,Monterrey,18469,2021/2022,Ball Possession %,ball-possession,overall,overall,count,1944.0
+2662,Monterrey,18469,2021/2022,Ball Possession %,ball-possession,overall,overall,average,51.16
+2662,Monterrey,18469,2021/2022,Redcards,redcards,overall,overall,count,6.0
+2662,Monterrey,18469,2021/2022,Redcards,redcards,overall,overall,average,0.16
+2662,Monterrey,18469,2021/2022,Tackles,tackles,defensive,overall,count,566.0
+2662,Monterrey,18469,2021/2022,Tackles,tackles,defensive,overall,average,14.89
+2662,Monterrey,18469,2021/2022,Team Wins,team-wins,,all,count,13.0
+2662,Monterrey,18469,2021/2022,Team Wins,team-wins,,all,percentage,34.21
+2662,Monterrey,18469,2021/2022,Team Wins,team-wins,,home,count,9.0
+2662,Monterrey,18469,2021/2022,Team Wins,team-wins,,home,percentage,69.23
+2662,Monterrey,18469,2021/2022,Team Wins,team-wins,,away,count,4.0
+2662,Monterrey,18469,2021/2022,Team Wins,team-wins,,away,percentage,30.77
+2662,Monterrey,18469,2021/2022,Yellowcards,yellowcards,overall,overall,count,82.0
+2662,Monterrey,18469,2021/2022,Yellowcards,yellowcards,overall,overall,average,2.16
+2662,Monterrey,18469,2021/2022,Attacks,attacks,offensive,overall,count,3547.0
+2662,Monterrey,18469,2021/2022,Attacks,attacks,offensive,overall,average,93.34
+2662,Monterrey,18469,2021/2022,Goals,goals,offensive,all,count,47.0
+2662,Monterrey,18469,2021/2022,Goals,goals,offensive,all,average,1.24
+2662,Monterrey,18469,2021/2022,Goals,goals,offensive,all,first,38.0
+2662,Monterrey,18469,2021/2022,Goals,goals,offensive,home,count,24.0
+2662,Monterrey,18469,2021/2022,Goals,goals,offensive,home,percentage,51.06
+2662,Monterrey,18469,2021/2022,Goals,goals,offensive,home,average,1.26
+2662,Monterrey,18469,2021/2022,Goals,goals,offensive,home,first,41.0
+2662,Monterrey,18469,2021/2022,Goals,goals,offensive,away,count,23.0
+2662,Monterrey,18469,2021/2022,Goals,goals,offensive,away,percentage,48.94
+2662,Monterrey,18469,2021/2022,Goals,goals,offensive,away,average,1.21
+2662,Monterrey,18469,2021/2022,Goals,goals,offensive,away,first,35.0
+2662,Monterrey,18469,2021/2022,Failed To Score,failed-toscore,offensive,all,count,14.0
+2662,Monterrey,18469,2021/2022,Failed To Score,failed-toscore,offensive,all,percentage,36.84
+2662,Monterrey,18469,2021/2022,Failed To Score,failed-toscore,offensive,home,count,7.0
+2662,Monterrey,18469,2021/2022,Failed To Score,failed-toscore,offensive,home,percentage,50.0
+2662,Monterrey,18469,2021/2022,Failed To Score,failed-toscore,offensive,home,overall_percentage,18.42
+2662,Monterrey,18469,2021/2022,Failed To Score,failed-toscore,offensive,away,count,7.0
+2662,Monterrey,18469,2021/2022,Failed To Score,failed-toscore,offensive,away,percentage,50.0
+2662,Monterrey,18469,2021/2022,Failed To Score,failed-toscore,offensive,away,overall_percentage,18.42
+2662,Monterrey,18469,2021/2022,Yellowred Cards,yellowred-cards,overall,overall,count,2.0
+2662,Monterrey,18469,2021/2022,Yellowred Cards,yellowred-cards,overall,overall,average,0.05
+2662,Monterrey,18469,2021/2022,Shots,shots,offensive,overall,average,12.24
+2662,Monterrey,18469,2021/2022,Team Lost,team-lost,,all,count,10.0
+2662,Monterrey,18469,2021/2022,Team Lost,team-lost,,all,percentage,26.32
+2662,Monterrey,18469,2021/2022,Team Lost,team-lost,,home,count,3.0
+2662,Monterrey,18469,2021/2022,Team Lost,team-lost,,home,percentage,30.0
+2662,Monterrey,18469,2021/2022,Team Lost,team-lost,,away,count,7.0
+2662,Monterrey,18469,2021/2022,Team Lost,team-lost,,away,percentage,70.0
+2662,Monterrey,18469,2021/2022,Both Teams To Score,btts,,all,count,17.0
+2662,Monterrey,18469,2021/2022,Both Teams To Score,btts,,all,percentage,44.74
+2662,Monterrey,18469,2021/2022,Both Teams To Score,btts,,home,count,6.0
+2662,Monterrey,18469,2021/2022,Both Teams To Score,btts,,home,percentage,35.29
+2662,Monterrey,18469,2021/2022,Both Teams To Score,btts,,away,count,11.0
+2662,Monterrey,18469,2021/2022,Both Teams To Score,btts,,away,percentage,64.71

@@ -1,0 +1,74 @@
+team_id,team_name,season_id,season_name,statistic_type,statistic_code,statistic_group,location,metric,value
+10036,Pachuca,17191,2020/2021,Offsides,offsides,offensive,overall,count,78.0
+10036,Pachuca,17191,2020/2021,Offsides,offsides,offensive,overall,average,1.86
+10036,Pachuca,17191,2020/2021,Redcards,redcards,overall,overall,count,8.0
+10036,Pachuca,17191,2020/2021,Redcards,redcards,overall,overall,average,0.19
+10036,Pachuca,17191,2020/2021,Team Wins,team-wins,,all,count,15.0
+10036,Pachuca,17191,2020/2021,Team Wins,team-wins,,all,percentage,35.71
+10036,Pachuca,17191,2020/2021,Team Wins,team-wins,,home,count,8.0
+10036,Pachuca,17191,2020/2021,Team Wins,team-wins,,home,percentage,53.33
+10036,Pachuca,17191,2020/2021,Team Wins,team-wins,,away,count,7.0
+10036,Pachuca,17191,2020/2021,Team Wins,team-wins,,away,percentage,46.67
+10036,Pachuca,17191,2020/2021,Cleansheets,cleansheets,,all,count,14.0
+10036,Pachuca,17191,2020/2021,Cleansheets,cleansheets,,all,percentage,33.33
+10036,Pachuca,17191,2020/2021,Cleansheets,cleansheets,,home,count,5.0
+10036,Pachuca,17191,2020/2021,Cleansheets,cleansheets,,home,percentage,35.71
+10036,Pachuca,17191,2020/2021,Cleansheets,cleansheets,,away,count,9.0
+10036,Pachuca,17191,2020/2021,Cleansheets,cleansheets,,away,percentage,64.29
+10036,Pachuca,17191,2020/2021,Dangerous Attacks,dangerous-attacks,offensive,overall,count,1772.0
+10036,Pachuca,17191,2020/2021,Dangerous Attacks,dangerous-attacks,offensive,overall,average,42.19
+10036,Pachuca,17191,2020/2021,Fouls,fouls,defensive,overall,count,547.0
+10036,Pachuca,17191,2020/2021,Fouls,fouls,defensive,overall,average,13.02
+10036,Pachuca,17191,2020/2021,Corners,corners,offensive,overall,count,226.0
+10036,Pachuca,17191,2020/2021,Corners,corners,offensive,overall,average,5.38
+10036,Pachuca,17191,2020/2021,Goals Conceded,goals-conceded,defensive,all,count,42.0
+10036,Pachuca,17191,2020/2021,Goals Conceded,goals-conceded,defensive,all,average,1.0
+10036,Pachuca,17191,2020/2021,Goals Conceded,goals-conceded,defensive,all,first,41.0
+10036,Pachuca,17191,2020/2021,Goals Conceded,goals-conceded,defensive,home,count,22.0
+10036,Pachuca,17191,2020/2021,Goals Conceded,goals-conceded,defensive,home,percentage,52.38
+10036,Pachuca,17191,2020/2021,Goals Conceded,goals-conceded,defensive,home,average,1.05
+10036,Pachuca,17191,2020/2021,Goals Conceded,goals-conceded,defensive,home,first,39.0
+10036,Pachuca,17191,2020/2021,Goals Conceded,goals-conceded,defensive,away,count,20.0
+10036,Pachuca,17191,2020/2021,Goals Conceded,goals-conceded,defensive,away,percentage,47.62
+10036,Pachuca,17191,2020/2021,Goals Conceded,goals-conceded,defensive,away,average,0.95
+10036,Pachuca,17191,2020/2021,Goals Conceded,goals-conceded,defensive,away,first,44.0
+10036,Pachuca,17191,2020/2021,Attacks,attacks,offensive,overall,count,4062.0
+10036,Pachuca,17191,2020/2021,Attacks,attacks,offensive,overall,average,96.71
+10036,Pachuca,17191,2020/2021,Team Draws,team-draws,,all,count,14.0
+10036,Pachuca,17191,2020/2021,Team Draws,team-draws,,all,percentage,33.33
+10036,Pachuca,17191,2020/2021,Team Draws,team-draws,,home,count,6.0
+10036,Pachuca,17191,2020/2021,Team Draws,team-draws,,home,percentage,42.86
+10036,Pachuca,17191,2020/2021,Team Draws,team-draws,,away,count,8.0
+10036,Pachuca,17191,2020/2021,Team Draws,team-draws,,away,percentage,57.14
+10036,Pachuca,17191,2020/2021,Yellowcards,yellowcards,overall,overall,count,73.0
+10036,Pachuca,17191,2020/2021,Yellowcards,yellowcards,overall,overall,average,1.74
+10036,Pachuca,17191,2020/2021,Goals,goals,offensive,all,count,50.0
+10036,Pachuca,17191,2020/2021,Goals,goals,offensive,all,average,1.19
+10036,Pachuca,17191,2020/2021,Goals,goals,offensive,all,first,48.0
+10036,Pachuca,17191,2020/2021,Goals,goals,offensive,home,count,25.0
+10036,Pachuca,17191,2020/2021,Goals,goals,offensive,home,percentage,50.0
+10036,Pachuca,17191,2020/2021,Goals,goals,offensive,home,average,1.19
+10036,Pachuca,17191,2020/2021,Goals,goals,offensive,home,first,50.0
+10036,Pachuca,17191,2020/2021,Goals,goals,offensive,away,count,25.0
+10036,Pachuca,17191,2020/2021,Goals,goals,offensive,away,percentage,50.0
+10036,Pachuca,17191,2020/2021,Goals,goals,offensive,away,average,1.19
+10036,Pachuca,17191,2020/2021,Goals,goals,offensive,away,first,46.0
+10036,Pachuca,17191,2020/2021,Ball Possession %,ball-possession,overall,overall,count,2142.0
+10036,Pachuca,17191,2020/2021,Ball Possession %,ball-possession,overall,overall,average,51.0
+10036,Pachuca,17191,2020/2021,Failed To Score,failed-toscore,offensive,all,count,14.0
+10036,Pachuca,17191,2020/2021,Failed To Score,failed-toscore,offensive,all,percentage,33.33
+10036,Pachuca,17191,2020/2021,Failed To Score,failed-toscore,offensive,home,count,7.0
+10036,Pachuca,17191,2020/2021,Failed To Score,failed-toscore,offensive,home,percentage,50.0
+10036,Pachuca,17191,2020/2021,Failed To Score,failed-toscore,offensive,home,overall_percentage,16.67
+10036,Pachuca,17191,2020/2021,Failed To Score,failed-toscore,offensive,away,count,7.0
+10036,Pachuca,17191,2020/2021,Failed To Score,failed-toscore,offensive,away,percentage,50.0
+10036,Pachuca,17191,2020/2021,Failed To Score,failed-toscore,offensive,away,overall_percentage,16.67
+10036,Pachuca,17191,2020/2021,Shots,shots,offensive,overall,average,13.57
+10036,Pachuca,17191,2020/2021,Yellowred Cards,yellowred-cards,overall,overall,count,2.0
+10036,Pachuca,17191,2020/2021,Yellowred Cards,yellowred-cards,overall,overall,average,0.05
+10036,Pachuca,17191,2020/2021,Team Lost,team-lost,,all,count,13.0
+10036,Pachuca,17191,2020/2021,Team Lost,team-lost,,all,percentage,30.95
+10036,Pachuca,17191,2020/2021,Team Lost,team-lost,,home,count,7.0
+10036,Pachuca,17191,2020/2021,Team Lost,team-lost,,home,percentage,53.85
+10036,Pachuca,17191,2020/2021,Team Lost,team-lost,,away,count,6.0
+10036,Pachuca,17191,2020/2021,Team Lost,team-lost,,away,percentage,46.15

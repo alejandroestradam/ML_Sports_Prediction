@@ -1,0 +1,1197 @@
+{
+    "id": 10036,
+    "sport_id": 1,
+    "country_id": 458,
+    "venue_id": 6594,
+    "gender": "male",
+    "name": "Pachuca",
+    "short_code": "PCH",
+    "image_path": "https://cdn.sportmonks.com/images/soccer/teams/20/10036.png",
+    "founded": 1901,
+    "type": "domestic",
+    "placeholder": false,
+    "last_played_at": "2025-04-21 01:00:00",
+    "statistics": [
+        {
+            "id": 345910,
+            "team_id": 10036,
+            "season_id": 23586,
+            "has_values": true,
+            "details": [
+                {
+                    "id": 4287237,
+                    "team_statistic_id": 345910,
+                    "type_id": 9676,
+                    "value": {
+                        "average_points_per_game": 1.5
+                    },
+                    "type": {
+                        "id": 9676,
+                        "name": "Average Points Per Game",
+                        "code": "average-points-per-game",
+                        "developer_name": "AVERAGE_POINTS_PER_GAME",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4287242,
+                    "team_statistic_id": 345910,
+                    "type_id": 9682,
+                    "value": {
+                        "pct_shots_on_target": "24.00"
+                    },
+                    "type": {
+                        "id": 9682,
+                        "name": "Shot On Target Percentage",
+                        "code": "shot-on-target-percentage",
+                        "developer_name": "SHOT_ON_TARGET_PERCENTAGE",
+                        "model_type": "statistic",
+                        "stat_group": "offensive"
+                    }
+                },
+                {
+                    "id": 4287225,
+                    "team_statistic_id": 345910,
+                    "type_id": 56,
+                    "value": {
+                        "count": 431,
+                        "average": 12.68
+                    },
+                    "type": {
+                        "id": 56,
+                        "name": "Fouls",
+                        "code": "fouls",
+                        "developer_name": "FOULS",
+                        "model_type": "statistic",
+                        "stat_group": "defensive"
+                    }
+                },
+                {
+                    "id": 4287229,
+                    "team_statistic_id": 345910,
+                    "type_id": 211,
+                    "value": {
+                        "rating": 7.51,
+                        "player_id": 37701412,
+                        "player_name": "Elías Montiel"
+                    },
+                    "type": {
+                        "id": 211,
+                        "name": "Highest Rated Player",
+                        "code": "highest-rated-player",
+                        "developer_name": "HIGHEST_RATED_PLAYER",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4304496,
+                    "team_statistic_id": 345910,
+                    "type_id": 9681,
+                    "value": {
+                        "conversion_rate_pct": "4.00"
+                    },
+                    "type": {
+                        "id": 9681,
+                        "name": "Shot Conversion Rate",
+                        "code": "shot-conversion-rate",
+                        "developer_name": "SHOT_CONVERSION_RATE",
+                        "model_type": "statistic",
+                        "stat_group": "offensive"
+                    }
+                },
+                {
+                    "id": 4287239,
+                    "team_statistic_id": 345910,
+                    "type_id": 45,
+                    "value": {
+                        "count": 1725,
+                        "average": 50.74
+                    },
+                    "type": {
+                        "id": 45,
+                        "name": "Ball Possession %",
+                        "code": "ball-possession",
+                        "developer_name": "BALL_POSSESSION",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4594000,
+                    "team_statistic_id": 345910,
+                    "type_id": 27253,
+                    "value": {
+                        "passes_per_game": 414.74,
+                        "passes_per_goal": 313.36,
+                        "total_passes": 14101,
+                        "passes_per_shot": 28.03
+                    },
+                    "type": {
+                        "id": 27253,
+                        "name": "Pass Stats",
+                        "code": "pass-stats",
+                        "developer_name": "PASS_STATS",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4593980,
+                    "team_statistic_id": 345910,
+                    "type_id": 118,
+                    "value": {
+                        "value": "7.00"
+                    },
+                    "type": {
+                        "id": 118,
+                        "name": "Rating",
+                        "code": "rating",
+                        "developer_name": "RATING",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4593987,
+                    "team_statistic_id": 345910,
+                    "type_id": 27261,
+                    "value": {
+                        "gf_over_0_5": 25,
+                        "gf_over_1_5": 13,
+                        "gf_over_2_5": 5,
+                        "gf_over_3_5": 3,
+                        "gf_over_4_5": 2,
+                        "ga_over_0_5": 28,
+                        "ga_over_1_5": 19,
+                        "ga_over_2_5": 4,
+                        "ga_over_3_5": 1,
+                        "ga_over_4_5": 0
+                    },
+                    "type": {
+                        "id": 27261,
+                        "name": "Goal Results",
+                        "code": "goal-results",
+                        "developer_name": "GOAL_RESULTS",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4593992,
+                    "team_statistic_id": 345910,
+                    "type_id": 27252,
+                    "value": {
+                        "total_interceptions": 359,
+                        "interceptions_per_game": 10.56
+                    },
+                    "type": {
+                        "id": 27252,
+                        "name": "Interception Stats",
+                        "code": "interception-stats",
+                        "developer_name": "INTERCEPTION_STATS",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4593985,
+                    "team_statistic_id": 345910,
+                    "type_id": 9683,
+                    "value": {
+                        "fouls_per_card": "4.49",
+                        "cards_per_foul": "0.22"
+                    },
+                    "type": {
+                        "id": 9683,
+                        "name": "Fouls Per Card",
+                        "code": "fouls-per-card",
+                        "developer_name": "FOULS_PER_CARD",
+                        "model_type": "statistic",
+                        "stat_group": "defensive"
+                    }
+                },
+                {
+                    "id": 4593986,
+                    "team_statistic_id": 345910,
+                    "type_id": 27263,
+                    "value": {
+                        "total": 34,
+                        "home": 17,
+                        "away": 17
+                    },
+                    "type": {
+                        "id": 27263,
+                        "name": "Games Played",
+                        "code": "games-played",
+                        "developer_name": "GAMES_PLAYED",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4287221,
+                    "team_statistic_id": 345910,
+                    "type_id": 34,
+                    "value": {
+                        "count": 216,
+                        "average": 6.35
+                    },
+                    "type": {
+                        "id": 34,
+                        "name": "Corners",
+                        "code": "corners",
+                        "developer_name": "CORNERS",
+                        "model_type": "statistic",
+                        "stat_group": "offensive"
+                    }
+                },
+                {
+                    "id": 4287223,
+                    "team_statistic_id": 345910,
+                    "type_id": 215,
+                    "value": {
+                        "all": {
+                            "count": 8,
+                            "percentage": 23.53
+                        },
+                        "home": {
+                            "count": 5,
+                            "percentage": 62.5
+                        },
+                        "away": {
+                            "count": 3,
+                            "percentage": 37.5
+                        }
+                    },
+                    "type": {
+                        "id": 215,
+                        "name": "Team Draws",
+                        "code": "team-draws",
+                        "developer_name": "DRAW",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4593994,
+                    "team_statistic_id": 345910,
+                    "type_id": 27251,
+                    "value": {
+                        "most_frequent_scoring_minute": 45,
+                        "amount_of_goals": 4
+                    },
+                    "type": {
+                        "id": 27251,
+                        "name": "Most Frequent Scoring Minute",
+                        "code": "most-frequent-scoring-minute",
+                        "developer_name": "MOST_FREQUENT_SCORING_MINUTE",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4593996,
+                    "team_statistic_id": 345910,
+                    "type_id": 27250,
+                    "value": {
+                        "most_scored_half": "2nd-half",
+                        "most_scored_half_goals": 52,
+                        "details": {
+                            "2nd-half": {
+                                "period": "2nd-half",
+                                "total": 52
+                            },
+                            "1st-half": {
+                                "period": "1st-half",
+                                "total": 49
+                            }
+                        }
+                    },
+                    "type": {
+                        "id": 27250,
+                        "name": "Most Scored Half",
+                        "code": "most-scored-half",
+                        "developer_name": "MOST_SCORED_HALF",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4594001,
+                    "team_statistic_id": 345910,
+                    "type_id": 27248,
+                    "value": {
+                        "scoring_frequency": 64.51
+                    },
+                    "type": {
+                        "id": 27248,
+                        "name": "Scoring Frequency",
+                        "code": "scoring-frequency",
+                        "developer_name": "SCORING_FREQUENCY",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4287246,
+                    "team_statistic_id": 345910,
+                    "type_id": 78,
+                    "value": {
+                        "count": 650,
+                        "average": 19.12,
+                        "tackles_per_foul": 1.51,
+                        "tackles_per_card": 6.7
+                    },
+                    "type": {
+                        "id": 78,
+                        "name": "Tackles",
+                        "code": "tackles",
+                        "developer_name": "TACKLES",
+                        "model_type": "statistic",
+                        "stat_group": "defensive"
+                    }
+                },
+                {
+                    "id": 4593978,
+                    "team_statistic_id": 345910,
+                    "type_id": 27254,
+                    "value": {
+                        "minutes_per_assist": 87.80555555555556,
+                        "assists_per_game": 1.06,
+                        "total_assists": 36
+                    },
+                    "type": {
+                        "id": 27254,
+                        "name": "Assist Stats",
+                        "code": "assist-stats",
+                        "developer_name": "ASSIST_STATS",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4643925,
+                    "team_statistic_id": 345910,
+                    "type_id": 47,
+                    "value": {
+                        "scored": 1,
+                        "missed": 1,
+                        "conversion_rate": 50
+                    },
+                    "type": {
+                        "id": 47,
+                        "name": "Penalties",
+                        "code": "penalties",
+                        "developer_name": "PENALTIES",
+                        "model_type": "statistic",
+                        "stat_group": "offensive"
+                    }
+                },
+                {
+                    "id": 4287230,
+                    "team_statistic_id": 345910,
+                    "type_id": 216,
+                    "value": {
+                        "all": {
+                            "count": 15,
+                            "percentage": 44.12
+                        },
+                        "home": {
+                            "count": 5,
+                            "percentage": 33.33
+                        },
+                        "away": {
+                            "count": 10,
+                            "percentage": 66.67
+                        }
+                    },
+                    "type": {
+                        "id": 216,
+                        "name": "Team Lost",
+                        "code": "team-lost",
+                        "developer_name": "LOST",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4287215,
+                    "team_statistic_id": 345910,
+                    "type_id": 43,
+                    "value": {
+                        "count": 3358,
+                        "average": 98.76
+                    },
+                    "type": {
+                        "id": 43,
+                        "name": "Attacks",
+                        "code": "attacks",
+                        "developer_name": "ATTACKS",
+                        "model_type": "statistic",
+                        "stat_group": "offensive"
+                    }
+                },
+                {
+                    "id": 4287222,
+                    "team_statistic_id": 345910,
+                    "type_id": 44,
+                    "value": {
+                        "count": 1633,
+                        "average": 48.03
+                    },
+                    "type": {
+                        "id": 44,
+                        "name": "Dangerous Attacks",
+                        "code": "dangerous-attacks",
+                        "developer_name": "DANGEROUS_ATTACKS",
+                        "model_type": "statistic",
+                        "stat_group": "offensive"
+                    }
+                },
+                {
+                    "id": 4287220,
+                    "team_statistic_id": 345910,
+                    "type_id": 194,
+                    "value": {
+                        "all": {
+                            "count": 6,
+                            "percentage": 17.65
+                        },
+                        "home": {
+                            "count": 4,
+                            "percentage": 66.67
+                        },
+                        "away": {
+                            "count": 2,
+                            "percentage": 33.33
+                        }
+                    },
+                    "type": {
+                        "id": 194,
+                        "name": "Cleansheets",
+                        "code": "cleansheets",
+                        "developer_name": "CLEANSHEET",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4287232,
+                    "team_statistic_id": 345910,
+                    "type_id": 9679,
+                    "value": {
+                        "most_injured_players": [
+                            {
+                                "player_id": 34862151,
+                                "total": 2
+                            },
+                            {
+                                "player_id": 185976,
+                                "total": 1
+                            },
+                            {
+                                "player_id": 37530859,
+                                "total": 1
+                            },
+                            {
+                                "player_id": 37555046,
+                                "total": 1
+                            },
+                            {
+                                "player_id": 37677652,
+                                "total": 1
+                            }
+                        ]
+                    },
+                    "type": {
+                        "id": 9679,
+                        "name": "Most Injured Players",
+                        "code": "most-injured-players",
+                        "developer_name": "MOST_INJURED_PLAYERS",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4287219,
+                    "team_statistic_id": 345910,
+                    "type_id": 192,
+                    "value": {
+                        "all": {
+                            "count": 22,
+                            "percentage": 64.71
+                        },
+                        "home": {
+                            "count": 10,
+                            "percentage": 45.45
+                        },
+                        "away": {
+                            "count": 12,
+                            "percentage": 54.55
+                        }
+                    },
+                    "type": {
+                        "id": 192,
+                        "name": "Both Teams To Score",
+                        "code": "btts",
+                        "developer_name": "BTTS",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4593991,
+                    "team_statistic_id": 345910,
+                    "type_id": 27260,
+                    "value": {
+                        "total": 15,
+                        "average": 0.44
+                    },
+                    "type": {
+                        "id": 27260,
+                        "name": "Injury Time Goals",
+                        "code": "injury-time-goals",
+                        "developer_name": "INJURY_TIME_GOALS",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4756120,
+                    "team_statistic_id": 345910,
+                    "type_id": 85,
+                    "value": {
+                        "count": 4,
+                        "average": 0.12,
+                        "player_id": 219451,
+                        "player_name": "Eduardo Bauermann",
+                        "coach": 0,
+                        "coach_average": 0
+                    },
+                    "type": {
+                        "id": 85,
+                        "name": "Yellowred Cards",
+                        "code": "yellowred-cards",
+                        "developer_name": "YELLOWRED_CARDS",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4287228,
+                    "team_statistic_id": 345910,
+                    "type_id": 52,
+                    "value": {
+                        "all": {
+                            "count": 49,
+                            "average": 1.44,
+                            "first_goal": 7
+                        },
+                        "home": {
+                            "count": 26,
+                            "percentage": 53.06,
+                            "average": 1.53,
+                            "first_goal": 12
+                        },
+                        "away": {
+                            "count": 23,
+                            "percentage": 46.94,
+                            "average": 1.35,
+                            "first_goal": 7
+                        }
+                    },
+                    "type": {
+                        "id": 52,
+                        "name": "Goals",
+                        "code": "goals",
+                        "developer_name": "GOALS",
+                        "model_type": "statistic",
+                        "stat_group": "offensive"
+                    }
+                },
+                {
+                    "id": 4593989,
+                    "team_statistic_id": 345910,
+                    "type_id": 27256,
+                    "value": {
+                        "won_both_halves": 4,
+                        "scored_both_halves": 6,
+                        "comebacks": 4
+                    },
+                    "type": {
+                        "id": 27256,
+                        "name": "Half Results",
+                        "code": "half-results",
+                        "developer_name": "HALF_RESULTS",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4287224,
+                    "team_statistic_id": 345910,
+                    "type_id": 575,
+                    "value": {
+                        "all": {
+                            "count": 9,
+                            "percentage": 26.47
+                        },
+                        "home": {
+                            "count": 5,
+                            "percentage": 55.56,
+                            "overall_percentage": 14.71
+                        },
+                        "away": {
+                            "count": 4,
+                            "percentage": 44.44,
+                            "overall_percentage": 11.76
+                        }
+                    },
+                    "type": {
+                        "id": 575,
+                        "name": "Failed To Score",
+                        "code": "failed-toscore",
+                        "developer_name": "FAILED_TO_SCORE",
+                        "model_type": "statistic",
+                        "stat_group": "offensive"
+                    }
+                },
+                {
+                    "id": 4287248,
+                    "team_statistic_id": 345910,
+                    "type_id": 214,
+                    "value": {
+                        "all": {
+                            "count": 11,
+                            "percentage": 32.35
+                        },
+                        "home": {
+                            "count": 7,
+                            "percentage": 63.64
+                        },
+                        "away": {
+                            "count": 4,
+                            "percentage": 36.36
+                        }
+                    },
+                    "type": {
+                        "id": 214,
+                        "name": "Team Wins",
+                        "code": "team-wins",
+                        "developer_name": "WIN",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4287226,
+                    "team_statistic_id": 345910,
+                    "type_id": 88,
+                    "value": {
+                        "all": {
+                            "count": 52,
+                            "average": 1.53,
+                            "first": 5
+                        },
+                        "home": {
+                            "count": 20,
+                            "percentage": 38.46,
+                            "average": 1.18,
+                            "first": 6
+                        },
+                        "away": {
+                            "count": 32,
+                            "percentage": 61.54,
+                            "average": 1.88,
+                            "first": 5
+                        }
+                    },
+                    "type": {
+                        "id": 88,
+                        "name": "Goals Conceded",
+                        "code": "goals-conceded",
+                        "developer_name": "GOALS_CONCEDED",
+                        "model_type": "statistic",
+                        "stat_group": "defensive"
+                    }
+                },
+                {
+                    "id": 4299970,
+                    "team_statistic_id": 345910,
+                    "type_id": 83,
+                    "value": {
+                        "count": 8,
+                        "average": 0.24,
+                        "player_id": 34862151,
+                        "player_name": "Bryan González",
+                        "coach": 1,
+                        "coach_average": 0.03
+                    },
+                    "type": {
+                        "id": 83,
+                        "name": "Redcards",
+                        "code": "redcards",
+                        "developer_name": "REDCARDS",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4287235,
+                    "team_statistic_id": 345910,
+                    "type_id": 9675,
+                    "value": {
+                        "left": 9,
+                        "right": 17,
+                        "unknown": 0
+                    },
+                    "type": {
+                        "id": 9675,
+                        "name": "Players Footing",
+                        "code": "players-footing",
+                        "developer_name": "PLAYERS_FOOTING",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4593999,
+                    "team_statistic_id": 345910,
+                    "type_id": 27258,
+                    "value": {
+                        "national_team_players": [
+                            {
+                                "team": "Venezuela",
+                                "player": 1651
+                            },
+                            {
+                                "team": "Mexico",
+                                "player": 34862151
+                            },
+                            {
+                                "team": "Brazil  U23",
+                                "player": 37553543
+                            },
+                            {
+                                "team": "Ecuador",
+                                "player": 37566219
+                            },
+                            {
+                                "team": "Uruguay U23",
+                                "player": 37571016
+                            },
+                            {
+                                "team": "Mexico U19",
+                                "player": 37635190
+                            },
+                            {
+                                "team": "Mexico U20",
+                                "player": 37635190
+                            },
+                            {
+                                "team": "Mexico U23",
+                                "player": 37635191
+                            },
+                            {
+                                "team": "Mexico",
+                                "player": 37701410
+                            },
+                            {
+                                "team": "Mexico U19",
+                                "player": 37701412
+                            },
+                            {
+                                "team": "Mexico U20",
+                                "player": 37701412
+                            }
+                        ]
+                    },
+                    "type": {
+                        "id": 27258,
+                        "name": "National Team Players",
+                        "code": "national-team-players",
+                        "developer_name": "NATIONAL_TEAM_PLAYERS",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4594003,
+                    "team_statistic_id": 345910,
+                    "type_id": 27249,
+                    "value": {
+                        "total_minutes_played": 3161
+                    },
+                    "type": {
+                        "id": 27249,
+                        "name": "Total Minutes Played",
+                        "code": "total-minutes-played",
+                        "developer_name": "TOTAL_MINUTES_PLAYED",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4287227,
+                    "team_statistic_id": 345910,
+                    "type_id": 213,
+                    "value": {
+                        "0-15": {
+                            "count": 7,
+                            "percentage": 13.46
+                        },
+                        "15-30": {
+                            "count": 7,
+                            "percentage": 13.46
+                        },
+                        "30-45": {
+                            "count": 13,
+                            "percentage": 25
+                        },
+                        "45-60": {
+                            "count": 6,
+                            "percentage": 11.54
+                        },
+                        "60-75": {
+                            "count": 9,
+                            "percentage": 17.31
+                        },
+                        "75-90": {
+                            "count": 10,
+                            "percentage": 19.23
+                        }
+                    },
+                    "type": {
+                        "id": 213,
+                        "name": "Conceded Scoring Minutes",
+                        "code": "conceded-scoring-minutes",
+                        "developer_name": "CONCEDED_SCORING_MINUTES",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4287218,
+                    "team_statistic_id": 345910,
+                    "type_id": 9672,
+                    "value": {
+                        "avg_defender_height": 181.7,
+                        "avg_midfielder_height": 175.31,
+                        "avg_goalkeeper_height": 187.33,
+                        "avg_attacker_height": 180.33,
+                        "avg_total_height": 179.13
+                    },
+                    "type": {
+                        "id": 9672,
+                        "name": "Average Player Height",
+                        "code": "average-player-height",
+                        "developer_name": "AVERAGE_PLAYER_HEIGHT",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4304495,
+                    "team_statistic_id": 345910,
+                    "type_id": 196,
+                    "value": {
+                        "0-15": {
+                            "count": 4,
+                            "percentage": 8.16
+                        },
+                        "15-30": {
+                            "count": 5,
+                            "percentage": 10.2
+                        },
+                        "30-45": {
+                            "count": 13,
+                            "percentage": 26.53
+                        },
+                        "45-60": {
+                            "count": 5,
+                            "percentage": 10.2
+                        },
+                        "60-75": {
+                            "count": 10,
+                            "percentage": 20.41
+                        },
+                        "75-90": {
+                            "count": 12,
+                            "percentage": 24.49
+                        }
+                    },
+                    "type": {
+                        "id": 196,
+                        "name": "Scoring Minutes",
+                        "code": "scoring-minutes",
+                        "developer_name": "SCORING_MINUTES",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                },
+                {
+                    "id": 4287245,
+                    "team_statistic_id": 345910,
+                    "type_id": 1677,
+                    "value": {
+                        "total": 503,
+                        "on_target": 176,
+                        "on_target_pct": null,
+                        "off_target": 218,
+                        "inside_box": 275,
+                        "outside_box": 230,
+                        "blocked": 116,
+                        "average": 14.79,
+                        "shot_frequency": null,
+                        "shot_conversion_rate_pct": 4
+                    },
+                    "type": {
+                        "id": 1677,
+                        "name": "Shots",
+                        "code": "shots",
+                        "developer_name": "SHOTS",
+                        "model_type": "statistic",
+                        "stat_group": "offensive"
+                    }
+                },
+                {
+                    "id": 4287250,
+                    "team_statistic_id": 345910,
+                    "type_id": 84,
+                    "value": {
+                        "count": 81,
+                        "average": 2.38,
+                        "player_id": 25513,
+                        "player_name": "Oussama Idrissi",
+                        "coach": 3,
+                        "coach_average": 0.09
+                    },
+                    "type": {
+                        "id": 84,
+                        "name": "Yellowcards",
+                        "code": "yellowcards",
+                        "developer_name": "YELLOWCARDS",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4287231,
+                    "team_statistic_id": 345910,
+                    "type_id": 9677,
+                    "value": {
+                        "most_appearing_players": [
+                            {
+                                "player_id": 25513,
+                                "matches": 32
+                            },
+                            {
+                                "player_id": 12789591,
+                                "matches": 32
+                            },
+                            {
+                                "player_id": 1651,
+                                "matches": 30
+                            },
+                            {
+                                "player_id": 21318547,
+                                "matches": 30
+                            },
+                            {
+                                "player_id": 34862151,
+                                "matches": 30
+                            }
+                        ],
+                        "longest_appearing_players": [
+                            {
+                                "player_id": 12789591,
+                                "minutes": 2880
+                            },
+                            {
+                                "player_id": 34862151,
+                                "minutes": 2580
+                            },
+                            {
+                                "player_id": 1651,
+                                "minutes": 2392
+                            },
+                            {
+                                "player_id": 25513,
+                                "minutes": 2356
+                            },
+                            {
+                                "player_id": 37701412,
+                                "minutes": 2216
+                            }
+                        ]
+                    },
+                    "type": {
+                        "id": 9677,
+                        "name": "Appearing Players",
+                        "code": "appearing-players",
+                        "developer_name": "APPEARING_PLAYERS",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4299969,
+                    "team_statistic_id": 345910,
+                    "type_id": 51,
+                    "value": {
+                        "count": 76,
+                        "average": 2.24
+                    },
+                    "type": {
+                        "id": 51,
+                        "name": "Offsides",
+                        "code": "offsides",
+                        "developer_name": "OFFSIDES",
+                        "model_type": "statistic",
+                        "stat_group": "offensive"
+                    }
+                },
+                {
+                    "id": 4594002,
+                    "team_statistic_id": 345910,
+                    "type_id": 124,
+                    "value": {
+                        "total": 32
+                    },
+                    "type": {
+                        "id": 124,
+                        "name": "Through Balls",
+                        "code": "through-balls",
+                        "developer_name": "THROUGH_BALLS",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4287233,
+                    "team_statistic_id": 345910,
+                    "type_id": 9678,
+                    "value": {
+                        "most_substituted_players": [
+                            {
+                                "player_id": 21318547,
+                                "in": 12,
+                                "out": 10,
+                                "total": 22
+                            },
+                            {
+                                "player_id": 37706994,
+                                "in": 7,
+                                "out": 15,
+                                "total": 22
+                            },
+                            {
+                                "player_id": 25513,
+                                "in": 4,
+                                "out": 16,
+                                "total": 20
+                            },
+                            {
+                                "player_id": 37590005,
+                                "in": 11,
+                                "out": 8,
+                                "total": 19
+                            },
+                            {
+                                "player_id": 253099,
+                                "in": 7,
+                                "out": 11,
+                                "total": 18
+                            }
+                        ]
+                    },
+                    "type": {
+                        "id": 9678,
+                        "name": "Most Substituted Players",
+                        "code": "most-substituted-players",
+                        "developer_name": "MOST_SUBSTITUTED_PLAYERS",
+                        "model_type": "statistic",
+                        "stat_group": "overall"
+                    }
+                },
+                {
+                    "id": 4287234,
+                    "team_statistic_id": 345910,
+                    "type_id": 191,
+                    "value": {
+                        "over_0_5": {
+                            "matches": {
+                                "count": 31,
+                                "percentage": 91.18
+                            },
+                            "team": {
+                                "count": 25,
+                                "percentage": 73.53
+                            }
+                        },
+                        "over_1_5": {
+                            "matches": {
+                                "count": 27,
+                                "percentage": 79.41
+                            },
+                            "team": {
+                                "count": 13,
+                                "percentage": 38.24
+                            }
+                        },
+                        "over_2_5": {
+                            "matches": {
+                                "count": 20,
+                                "percentage": 58.82
+                            },
+                            "team": {
+                                "count": 5,
+                                "percentage": 14.71
+                            }
+                        },
+                        "over_3_5": {
+                            "matches": {
+                                "count": 9,
+                                "percentage": 26.47
+                            },
+                            "team": {
+                                "count": 3,
+                                "percentage": 8.82
+                            }
+                        },
+                        "over_4_5": {
+                            "matches": {
+                                "count": 7,
+                                "percentage": 20.59
+                            },
+                            "team": {
+                                "count": 2,
+                                "percentage": 5.88
+                            }
+                        },
+                        "over_5_5": {
+                            "matches": {
+                                "count": 3,
+                                "percentage": 8.82
+                            },
+                            "team": {
+                                "count": 1,
+                                "percentage": 2.94
+                            }
+                        }
+                    },
+                    "type": {
+                        "id": 191,
+                        "name": "Number Of Goals",
+                        "code": "number-of-goals",
+                        "developer_name": "NUMBER_OF_GOALS",
+                        "model_type": "statistic",
+                        "stat_group": null
+                    }
+                }
+            ]
+        }
+    ]
+}

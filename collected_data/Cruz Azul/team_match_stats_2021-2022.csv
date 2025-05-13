@@ -1,0 +1,61 @@
+match_id,season_name,match_date,team_id,team_name,is_home,statistic_type,statistic_location,value
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Cleansheets_count,all,12.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Cleansheets_percentage,all,31.58
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Cleansheets_count,home,5.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Cleansheets_percentage,home,41.67
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Cleansheets_count,away,7.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Cleansheets_percentage,away,58.33
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Draws_count,all,13.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Draws_percentage,all,34.21
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Team Draws_count,home,4.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Team Draws_percentage,home,30.77
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Draws_count,away,9.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Draws_percentage,away,69.23
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Lost_count,all,12.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Lost_percentage,all,31.58
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Team Lost_count,home,9.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Team Lost_percentage,home,75.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Lost_count,away,3.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Lost_percentage,away,25.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Wins_count,all,13.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Wins_percentage,all,34.21
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Team Wins_count,home,7.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Team Wins_percentage,home,53.85
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Wins_count,away,6.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Team Wins_percentage,away,46.15
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals Conceded_count,all,40.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals Conceded_average,all,1.05
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals Conceded_first,all,40.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Goals Conceded_count,home,23.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Goals Conceded_percentage,home,57.5
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Goals Conceded_average,home,1.15
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Goals Conceded_first,home,41.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals Conceded_count,away,17.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals Conceded_percentage,away,42.5
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals Conceded_average,away,0.94
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals Conceded_first,away,37.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals_count,all,44.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals_average,all,1.16
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals_first,all,34.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Goals_count,home,22.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Goals_percentage,home,50.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Goals_average,home,1.1
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Goals_first,home,36.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals_count,away,22.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals_percentage,away,50.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals_average,away,1.22
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Goals_first,away,32.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Failed To Score_count,all,9.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Failed To Score_percentage,all,23.68
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Failed To Score_count,home,5.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Failed To Score_percentage,home,55.56
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Failed To Score_overall_percentage,home,13.16
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Failed To Score_count,away,4.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Failed To Score_percentage,away,44.44
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Failed To Score_overall_percentage,away,10.53
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Both Teams To Score_count,all,20.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Both Teams To Score_percentage,all,52.63
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Both Teams To Score_count,home,10.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,True,Both Teams To Score_percentage,home,50.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Both Teams To Score_count,away,10.0
+team_stat_2626_18469,2021-2022,2025-04-24T23:15:57.388054,2626,Cruz Azul,False,Both Teams To Score_percentage,away,50.0
